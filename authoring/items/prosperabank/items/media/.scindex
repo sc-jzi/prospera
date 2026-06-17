@@ -1,0 +1,2017 @@
+﻿# Do not commit this file to source control or modify it. It is safe to delete; it will recreate itself.
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial.yml
+ID: "9630299a-f0c0-4b95-bb56-adb394885d48"
+Parent: "90ae357f-6171-4ea9-808c-5600b678f726"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/Financial
+Signature: qIWTv+TUOpxfX3ICLiTdZvtaEheoThqKqlzqsnGYYqw=
+Modified: 638974408213730165
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\Basic.yml
+ID: "2826bad7-ca59-4d79-912c-13aede733066"
+Parent: "9630299a-f0c0-4b95-bb56-adb394885d48"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/Financial/Basic
+Signature: GPiHk/OMPY8S4EdlaHKn+QlBHEsxxQH6/gKZ+kbEHug=
+Modified: 638974408200062625
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial.yml
+ID: "eee2c54e-1bc8-4b72-bb26-1ea80c093a30"
+Parent: "9630299a-f0c0-4b95-bb56-adb394885d48"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/Financial/ProsperaFinancial
+Signature: qIWTv+TUOpxfX3ICLiTdZvtaEheoThqKqlzqsnGYYqw=
+Modified: 638975338706472064
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\Services.yml
+ID: "f76d0e6e-24fa-4fa8-8e3a-b594354db2c3"
+Parent: "9630299a-f0c0-4b95-bb56-adb394885d48"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/Financial/Services
+Signature: GPiHk/OMPY8S4EdlaHKn+QlBHEsxxQH6/gKZ+kbEHug=
+Modified: 638974408200077824
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\shared.yml
+ID: "0471133e-2103-481b-be54-16612d58b5c2"
+Parent: "9630299a-f0c0-4b95-bb56-adb394885d48"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/Financial/shared
+Signature: GPiHk/OMPY8S4EdlaHKn+QlBHEsxxQH6/gKZ+kbEHug=
+Modified: 638974408200092880
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\Basic\Screenshots.yml
+ID: "3d598baa-53e6-4610-9fa4-abca58103ec5"
+Parent: "2826bad7-ca59-4d79-912c-13aede733066"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/Financial/Basic/Screenshots
+Signature: J1F5lPfYsQhEjXGvkGWJKanxXaqsMWBcCjkucoA/UH4=
+Modified: 638974408202216823
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\Basic\Sitemaps.yml
+ID: "25784f24-8819-4fe2-800b-584be742672b"
+Parent: "2826bad7-ca59-4d79-912c-13aede733066"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/Financial/Basic/Sitemaps
+Signature: J1F5lPfYsQhEjXGvkGWJKanxXaqsMWBcCjkucoA/UH4=
+Modified: 638974408202238248
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\About us.yml
+ID: "f0114306-6132-4062-b2fb-714ad6db5d7b"
+Parent: "eee2c54e-1bc8-4b72-bb26-1ea80c093a30"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/Financial/ProsperaFinancial/About us
+Signature: GPiHk/OMPY8S4EdlaHKn+QlBHEsxxQH6/gKZ+kbEHug=
+Modified: 638975338706502119
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Articles.yml
+ID: "23e0641c-4178-456e-8123-930de612c703"
+Parent: "eee2c54e-1bc8-4b72-bb26-1ea80c093a30"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/Financial/ProsperaFinancial/Articles
+Signature: gKf9KysIehZMvHDYG9836qHzSt56KR7azgGY95i6as8=
+Modified: 638975338706512122
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Authors.yml
+ID: "459622e9-ebf9-4f77-a067-4ea3c5f7a88c"
+Parent: "eee2c54e-1bc8-4b72-bb26-1ea80c093a30"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/Financial/ProsperaFinancial/Authors
+Signature: DWKDH5o1LoWNbB5shqgHHsnjDbKiMvk9SYw7v5z+LBw=
+Modified: 638975338706502119
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Business.yml
+ID: "4842de6e-52a6-49ba-8d1b-7d1b791e69b0"
+Parent: "eee2c54e-1bc8-4b72-bb26-1ea80c093a30"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/Financial/ProsperaFinancial/Business
+Signature: JFu3TWHZg493kHLcMAEbAYDbsrNTrf6ky5RoIHKIVwk=
+Modified: 638975338706512122
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\FAQs.yml
+ID: "cee245bb-7d42-49bb-aba9-14c7c9c5f833"
+Parent: "eee2c54e-1bc8-4b72-bb26-1ea80c093a30"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/Financial/ProsperaFinancial/FAQs
+Signature: GPiHk/OMPY8S4EdlaHKn+QlBHEsxxQH6/gKZ+kbEHug=
+Modified: 638975338706512122
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Home page.yml
+ID: "49e904be-d0c2-4d6e-b509-454b76dcec4b"
+Parent: "eee2c54e-1bc8-4b72-bb26-1ea80c093a30"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/Financial/ProsperaFinancial/Home page
+Signature: nZQ8NzT1UA0/u9BeIFatjp+ftIVMHWeG5B4IE1iHk8A=
+Modified: 638975338706512122
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Mockups.yml
+ID: "66cc7dbc-efea-46b5-8e9e-97ca56f1fd02"
+Parent: "eee2c54e-1bc8-4b72-bb26-1ea80c093a30"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/Financial/ProsperaFinancial/Mockups
+Signature: kOHdg5j2fz9V856weUouirv723cYiIL4uodSy1NU9kQ=
+Modified: 638975338706512122
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Personal.yml
+ID: "31860239-b0f2-4dcd-88dc-d45e87b2a03a"
+Parent: "eee2c54e-1bc8-4b72-bb26-1ea80c093a30"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/Financial/ProsperaFinancial/Personal
+Signature: E9z5/nWm+4rPaJCAQjq1tjO40BKLNYDU2Hz55lVxnWc=
+Modified: 638975338706522570
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Placeholders.yml
+ID: "1201991a-b76c-494f-afbb-719b4515a18c"
+Parent: "eee2c54e-1bc8-4b72-bb26-1ea80c093a30"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/Financial/ProsperaFinancial/Placeholders
+Signature: zeIjS8ZuxrEls/GFuoYKZMIFu/5V/U3zV17sk4HsfiI=
+Modified: 638975338706512122
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Retirement planning.yml
+ID: "a61ffb24-1060-4f63-ae12-fe0571ed5e27"
+Parent: "eee2c54e-1bc8-4b72-bb26-1ea80c093a30"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/Financial/ProsperaFinancial/Retirement planning
+Signature: lM6cPq08fecbvk4Z1Ehwbh9ctZNtedY5Nk3kP3io1G4=
+Modified: 638975338706522570
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Screenshots.yml
+ID: "67a776c5-84f4-4493-8984-12aa22ffd442"
+Parent: "eee2c54e-1bc8-4b72-bb26-1ea80c093a30"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/Financial/ProsperaFinancial/Screenshots
+Signature: jM3atc1Z0GHqnT6yD0LyI48ekhE0Iyqu/rD7N0HXTlY=
+Modified: 638975338706522570
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Sitemaps.yml
+ID: "299c0b68-ef43-49ec-ad80-2ef3077baf6e"
+Parent: "eee2c54e-1bc8-4b72-bb26-1ea80c093a30"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/Financial/ProsperaFinancial/Sitemaps
+Signature: Mt80kPoMznQX4G5rHN+TjvtFNzwdwzretjVBWZgRADo=
+Modified: 638975338706522570
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\SVG.yml
+ID: "2a3dbf56-ac6b-43b2-9cfc-7f0ae30ee272"
+Parent: "eee2c54e-1bc8-4b72-bb26-1ea80c093a30"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/Financial/ProsperaFinancial/SVG
+Signature: XouLLnFQsG5GKuF+XJxuAV8OznrPoYXUd5wGo8OE8jY=
+Modified: 638975338706522570
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\System.yml
+ID: "c8e982da-0906-45de-939b-e4e9eb5bb63f"
+Parent: "eee2c54e-1bc8-4b72-bb26-1ea80c093a30"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/Financial/ProsperaFinancial/System
+Signature: XIvhnc4ePYlawdoEOvx6HNV9rAUDb5is5Hr+5smHEbs=
+Modified: 638975338706522570
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\Services\Components.yml
+ID: "eaafaf03-b8dc-41e6-980d-fb2aff356442"
+Parent: "f76d0e6e-24fa-4fa8-8e3a-b594354db2c3"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/Financial/Services/Components
+Signature: J1F5lPfYsQhEjXGvkGWJKanxXaqsMWBcCjkucoA/UH4=
+Modified: 638974408202263417
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\Services\Mockups.yml
+ID: "aac59603-dfd5-42ff-857d-8b8cc72edc54"
+Parent: "f76d0e6e-24fa-4fa8-8e3a-b594354db2c3"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/Financial/Services/Mockups
+Signature: J1F5lPfYsQhEjXGvkGWJKanxXaqsMWBcCjkucoA/UH4=
+Modified: 638974408202288715
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\Services\Pages.yml
+ID: "da9d8c8c-a783-41b7-9f60-08ee4d583df2"
+Parent: "f76d0e6e-24fa-4fa8-8e3a-b594354db2c3"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/Financial/Services/Pages
+Signature: J1F5lPfYsQhEjXGvkGWJKanxXaqsMWBcCjkucoA/UH4=
+Modified: 638974408202303908
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\Services\PNG.yml
+ID: "52ca8f4d-fce7-4ec8-8b40-0207eaff0b19"
+Parent: "f76d0e6e-24fa-4fa8-8e3a-b594354db2c3"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/Financial/Services/PNG
+Signature: J1F5lPfYsQhEjXGvkGWJKanxXaqsMWBcCjkucoA/UH4=
+Modified: 638974408202323196
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\Services\Screenshots.yml
+ID: "d233c940-73a8-44ab-9ce2-978b6256d36a"
+Parent: "f76d0e6e-24fa-4fa8-8e3a-b594354db2c3"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/Financial/Services/Screenshots
+Signature: J1F5lPfYsQhEjXGvkGWJKanxXaqsMWBcCjkucoA/UH4=
+Modified: 638974408202333255
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\Services\Sitemaps.yml
+ID: "165a32ec-e3a9-47fd-813b-d2b3aaf9eb63"
+Parent: "f76d0e6e-24fa-4fa8-8e3a-b594354db2c3"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/Financial/Services/Sitemaps
+Signature: J1F5lPfYsQhEjXGvkGWJKanxXaqsMWBcCjkucoA/UH4=
+Modified: 638974408202368504
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\Basic\Screenshots\basic_home.yml
+ID: "9b3420aa-a65b-4508-9418-145ad4407d47"
+Parent: "3d598baa-53e6-4610-9fa4-abca58103ec5"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: /sitecore/media library/Project/Financial/Basic/Screenshots/basic_home
+Signature: jk0ZskZdQyQWB+kxk06TXYYv6wnLlq6Eiw1c5P9JDmA=
+Modified: 638975227007422097
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\Basic\Sitemaps\Basic.yml
+ID: "c2f311bc-62cf-4199-b6c9-74656bf5d1a6"
+Parent: "25784f24-8819-4fe2-800b-584be742672b"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/Financial/Basic/Sitemaps/Basic
+Signature: baalWV3tbpI5YVBfTDDFx8sD9lWPCXWTa4lfIYWlokI=
+Modified: 638974408202432030
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\About us\default-content-page-background.yml
+ID: "57dda957-6ad4-441e-a747-4bf602555b09"
+Parent: "f0114306-6132-4062-b2fb-714ad6db5d7b"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: "/sitecore/media library/Project/Financial/ProsperaFinancial/About us/default-content-page-background"
+Signature: sVvC68q4tyIINd+EUQu2MWXkC89r0DBUfOHDqDNX30g=
+Modified: 638975338706542631
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\About us\small-business-mobile-hero-1800x700.yml
+ID: "ce46631b-1ed3-4afd-9f76-b8b52c3a3e26"
+Parent: "f0114306-6132-4062-b2fb-714ad6db5d7b"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: "/sitecore/media library/Project/Financial/ProsperaFinancial/About us/small-business-mobile-hero-1800x700"
+Signature: 9aB8rGM3Ffe4KESM/bYnbvetvTAVfLwKcE4ihqR8tic=
+Modified: 638975338706532630
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Articles\article-background-1920x987.yml
+ID: "10cb9c1e-edeb-45ae-9598-ead7cf3b3204"
+Parent: "23e0641c-4178-456e-8123-930de612c703"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: "/sitecore/media library/Project/Financial/ProsperaFinancial/Articles/article-background-1920x987"
+Signature: JuJJnRIXpcrPZcfppYU8/sQXnp/6VFnrTxFZspbs3Oc=
+Modified: 638975338706648009
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Articles\article-blockchain.yml
+ID: "3bcf790b-6f34-4be9-b544-61bc4750b936"
+Parent: "23e0641c-4178-456e-8123-930de612c703"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: "/sitecore/media library/Project/Financial/ProsperaFinancial/Articles/article-blockchain"
+Signature: 4mkCCoQBIuAJ8wPFIfVS37BwHADbQrLRMgtXz3poJ00=
+Modified: 638975338706745619
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Articles\article-grow.yml
+ID: "9aa47a83-136e-4abc-8088-1d181b2fb7e4"
+Parent: "23e0641c-4178-456e-8123-930de612c703"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: "/sitecore/media library/Project/Financial/ProsperaFinancial/Articles/article-grow"
+Signature: alE6Ra2jDHyfbbXNLSts4c9g3BOEJ6aVn4uMib+9//8=
+Modified: 638975338706598017
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Articles\article-mobile-app.yml
+ID: "435221f4-8f7a-4848-bb82-ced902ec9afe"
+Parent: "23e0641c-4178-456e-8123-930de612c703"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: "/sitecore/media library/Project/Financial/ProsperaFinancial/Articles/article-mobile-app"
+Signature: MEult2MW8WoW+JtwPo87DrJyt2AZm1Lk+kcI51hWnX4=
+Modified: 638975338706725618
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Articles\article-online-scams.yml
+ID: "dc72fadf-5c01-44f2-97a8-f0121ab9d5b6"
+Parent: "23e0641c-4178-456e-8123-930de612c703"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: "/sitecore/media library/Project/Financial/ProsperaFinancial/Articles/article-online-scams"
+Signature: 6WG3/mubXo5Tm3v8NoTccQYE4F/6J/1/LHR0m0fr8kk=
+Modified: 638975338706870173
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Articles\article-retired.yml
+ID: "ed89f2d3-e214-499f-9efe-26a24d0792d3"
+Parent: "23e0641c-4178-456e-8123-930de612c703"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: "/sitecore/media library/Project/Financial/ProsperaFinancial/Articles/article-retired"
+Signature: HOf9emuN3xMYWSIxCJqzLOdv2BXN0utHTtsMM7wDiUM=
+Modified: 638975338706638013
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Articles\article-solutions.yml
+ID: "aeb23d9e-cc27-44a9-9fde-df58f8c10fb8"
+Parent: "23e0641c-4178-456e-8123-930de612c703"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: "/sitecore/media library/Project/Financial/ProsperaFinancial/Articles/article-solutions"
+Signature: ew23BDCljTvRI+vT3e2aUGh+wVxfLlXUT6g6IE/V1Hg=
+Modified: 638975338706608025
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Articles\article-wealth-gap.yml
+ID: "77b2e03a-b9ce-4c45-9bc1-1e226624837e"
+Parent: "23e0641c-4178-456e-8123-930de612c703"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: "/sitecore/media library/Project/Financial/ProsperaFinancial/Articles/article-wealth-gap"
+Signature: n2IyxttjmI234CtB5StL1oni7PMi+Sp7YmhMJGz2IP4=
+Modified: 638975338706755616
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Articles\articles-default-background-image.yml
+ID: "150a83bb-d038-4cee-b893-c07b68ba1d8b"
+Parent: "23e0641c-4178-456e-8123-930de612c703"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: "/sitecore/media library/Project/Financial/ProsperaFinancial/Articles/articles-default-background-image"
+Signature: eFIqwFlAeCQh1g3p19AzaIGpi+s+8QG6zrpvwGJ+LUY=
+Modified: 638975338706658013
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Articles\news-thubmnail-1.yml
+ID: "32909cab-5f82-4428-a428-df531e7776dd"
+Parent: "23e0641c-4178-456e-8123-930de612c703"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: "/sitecore/media library/Project/Financial/ProsperaFinancial/Articles/news-thubmnail-1"
+Signature: 7riI+mcaG/7IVD39zvxml9v0e6Sthzrww0ry4umijb8=
+Modified: 638975338706608025
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Articles\news-thumbnail-2.yml
+ID: "7c9add95-cf1d-4db0-823f-c00e876b03ed"
+Parent: "23e0641c-4178-456e-8123-930de612c703"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: "/sitecore/media library/Project/Financial/ProsperaFinancial/Articles/news-thumbnail-2"
+Signature: LlQq/PpEWaDjj2fo+Jf+lWyeqvZnRYk8Mq4Wjw1tgZI=
+Modified: 638975338706663065
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Authors\Alex-500x500.yml
+ID: "fe2821dd-786c-4e12-a89d-2a3faac2014e"
+Parent: "459622e9-ebf9-4f77-a067-4ea3c5f7a88c"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: "/sitecore/media library/Project/Financial/ProsperaFinancial/Authors/Alex-500x500"
+Signature: uGUNH6kdo+pwayps8NDEFfcRjmt+j7L1UqZMjHmpDJk=
+Modified: 638975338706608025
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Authors\Gabby-500x500.yml
+ID: "59ba5624-1ccb-4354-bf21-8fb682ec70a0"
+Parent: "459622e9-ebf9-4f77-a067-4ea3c5f7a88c"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: "/sitecore/media library/Project/Financial/ProsperaFinancial/Authors/Gabby-500x500"
+Signature: m2DpnAOFH/+OHpBEeNpOCoWZDiBbcdOE+oO/yHdLQfA=
+Modified: 638975338706784922
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Authors\Josephine-500x500.yml
+ID: "6135f03f-7ce3-45e4-bf8c-4119d75b6c75"
+Parent: "459622e9-ebf9-4f77-a067-4ea3c5f7a88c"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: "/sitecore/media library/Project/Financial/ProsperaFinancial/Authors/Josephine-500x500"
+Signature: m8qn752XbtcZyZtn4tGGGUyeLtEGlKo6Iq1feWvnWps=
+Modified: 638975338706568005
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Authors\Nick-500x500.yml
+ID: "7b90d0eb-5cc2-4b14-890d-4277be776c3b"
+Parent: "459622e9-ebf9-4f77-a067-4ea3c5f7a88c"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: "/sitecore/media library/Project/Financial/ProsperaFinancial/Authors/Nick-500x500"
+Signature: WHSax0gIoVIbSvSNLX1om9TwvGaKQwg+BcFxf66WqNQ=
+Modified: 638975338706578017
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Authors\Olly-500x500.yml
+ID: "62f6a36e-bfb0-432d-8502-b8e7e9f1e90a"
+Parent: "459622e9-ebf9-4f77-a067-4ea3c5f7a88c"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: "/sitecore/media library/Project/Financial/ProsperaFinancial/Authors/Olly-500x500"
+Signature: v4C6ugsnrssx/yTSg8vUQuejWhdyDlvgVbsCiYoVYxU=
+Modified: 638975338706760682
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Business\business-background.yml
+ID: "0a2d0c59-7209-4ba8-977c-d2286c91ac4d"
+Parent: "4842de6e-52a6-49ba-8d1b-7d1b791e69b0"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: "/sitecore/media library/Project/Financial/ProsperaFinancial/Business/business-background"
+Signature: 3U+28E8Ilz2evUhFxuH58MygzOi/EmAhw2XFykunjLs=
+Modified: 638975338706705618
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Business\cash-flow-promo.yml
+ID: "c01cf596-6d6a-43d4-98fa-cdeb89abd26a"
+Parent: "4842de6e-52a6-49ba-8d1b-7d1b791e69b0"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: "/sitecore/media library/Project/Financial/ProsperaFinancial/Business/cash-flow-promo"
+Signature: adZYTIg80egJYnw9wCWjR3qEpXq1c+hnl75zTS08yEU=
+Modified: 638975338706685629
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Business\Employee management.yml
+ID: "2693ba59-5759-4ae1-b2c2-b215988a15f7"
+Parent: "4842de6e-52a6-49ba-8d1b-7d1b791e69b0"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/Financial/ProsperaFinancial/Business/Employee management
+Signature: nyy3LhgTcZUu6XPD6m414IMZZAOUHIWuGSg0Ci29hFQ=
+Modified: 638975338706598017
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Business\International banking.yml
+ID: "41c86dc0-2702-41f9-9803-80d9f335e4be"
+Parent: "4842de6e-52a6-49ba-8d1b-7d1b791e69b0"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/Financial/ProsperaFinancial/Business/International banking
+Signature: lF4AT2fJA4texzoiCh4e9T4i3G43HYJv4Ntw42a3E+Y=
+Modified: 638975338706598017
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\FAQs\banking-savings-hero-1800x700.yml
+ID: "41644691-6b84-4c83-a9c7-0fdbdf68ed31"
+Parent: "cee245bb-7d42-49bb-aba9-14c7c9c5f833"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: "/sitecore/media library/Project/Financial/ProsperaFinancial/FAQs/banking-savings-hero-1800x700"
+Signature: KhI21oJGBGckplXIhDmYYLK9H32a/lWjNYraOIYjY9o=
+Modified: 638975338706685629
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Home page\Carousels.yml
+ID: "92c5a801-cd85-43e2-8240-34ad352e9314"
+Parent: "49e904be-d0c2-4d6e-b509-454b76dcec4b"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/Financial/ProsperaFinancial/Home page/Carousels
+Signature: 4fcPrkpkMviWH7+1HorxX/GLOffdXp3jnVBLvM1jPBQ=
+Modified: 638975338706598017
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Mockups\big-promo1.yml
+ID: "a6e1e406-694c-41db-8f9b-ae69c32ca47e"
+Parent: "66cc7dbc-efea-46b5-8e9e-97ca56f1fd02"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: "/sitecore/media library/Project/Financial/ProsperaFinancial/Mockups/big-promo1"
+Signature: ThSgn2kU1Ku366Cy0DnmKGVNk6ClY14E73DNCfMmTCI=
+Modified: 638975338706675534
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Mockups\big-promo2.yml
+ID: "d3a0cc0b-eaae-4a88-ad26-e5dc28dcdebf"
+Parent: "66cc7dbc-efea-46b5-8e9e-97ca56f1fd02"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: "/sitecore/media library/Project/Financial/ProsperaFinancial/Mockups/big-promo2"
+Signature: CPq5/i18LeaSpIz/lb4CBYQiQDVRz+tO9Nr6YhllK3U=
+Modified: 638975338706663065
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Mockups\btn-AppGallery-white.yml
+ID: "3fb814af-d8e8-46ff-9bfd-4312b2213ec4"
+Parent: "66cc7dbc-efea-46b5-8e9e-97ca56f1fd02"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: "/sitecore/media library/Project/Financial/ProsperaFinancial/Mockups/btn-AppGallery-white"
+Signature: EZXS/akT0ETkIjrdvCroHxIRUkRU2GPZCYbCp7U1DlQ=
+Modified: 638975338706658013
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Mockups\btn-Google-Play-Light.yml
+ID: "dcdcd7a8-f8da-4110-ba4f-d19feffd1465"
+Parent: "66cc7dbc-efea-46b5-8e9e-97ca56f1fd02"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: "/sitecore/media library/Project/Financial/ProsperaFinancial/Mockups/btn-Google-Play-Light"
+Signature: HO0usTrsxqPMpRcMIkO7VpprQwPM202qp45Q4R7HXQU=
+Modified: 638975338706695617
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Mockups\close-up-hand-holding-smartphone.yml
+ID: "63e17ddd-8e91-4af6-8052-ff666914c5df"
+Parent: "66cc7dbc-efea-46b5-8e9e-97ca56f1fd02"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: "/sitecore/media library/Project/Financial/ProsperaFinancial/Mockups/close-up-hand-holding-smartphone"
+Signature: iLmkvzAQee2HprwIh9ewXm8KVE5cSrPn5zTNieClB2E=
+Modified: 638975338706770761
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Mockups\close-up-young-businesswoman.yml
+ID: "fc78c30d-de27-4d68-aef8-a4f389feea4d"
+Parent: "66cc7dbc-efea-46b5-8e9e-97ca56f1fd02"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: "/sitecore/media library/Project/Financial/ProsperaFinancial/Mockups/close-up-young-businesswoman"
+Signature: f4an7s7HFoBgPXv/+i2+VPRaXhbONAUXxSo8SrTVmiw=
+Modified: 638975338706715614
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Mockups\double-parallax-bg.yml
+ID: "ee13d176-d0cf-4b45-9f1d-93d1f797cf4d"
+Parent: "66cc7dbc-efea-46b5-8e9e-97ca56f1fd02"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: "/sitecore/media library/Project/Financial/ProsperaFinancial/Mockups/double-parallax-bg"
+Signature: AwWfdwe1smTBmVAJH0JOIBKEiQyZ4kdeXcUbaPjJnyE=
+Modified: 638975338706770761
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Mockups\double-parallax-fg.yml
+ID: "719649fd-f937-4add-8e17-6915f6f67472"
+Parent: "66cc7dbc-efea-46b5-8e9e-97ca56f1fd02"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: "/sitecore/media library/Project/Financial/ProsperaFinancial/Mockups/double-parallax-fg"
+Signature: jfHJhRdGrFDhVA74lmLmTMWPRRxySKjPqHqbkjDUA8s=
+Modified: 638975338706695617
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Mockups\four-col-promo-1.yml
+ID: "4986f57f-1293-4b48-86bb-1281b6a31573"
+Parent: "66cc7dbc-efea-46b5-8e9e-97ca56f1fd02"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: "/sitecore/media library/Project/Financial/ProsperaFinancial/Mockups/four-col-promo-1"
+Signature: sdwpJETG7h9Z4wnt5Bwjf34SfkZVzpiPOv0TH8XTsJM=
+Modified: 638975338706663065
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Mockups\four-col-promo-2.yml
+ID: "032b60ed-5aa8-4da5-a142-c96693c88d17"
+Parent: "66cc7dbc-efea-46b5-8e9e-97ca56f1fd02"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: "/sitecore/media library/Project/Financial/ProsperaFinancial/Mockups/four-col-promo-2"
+Signature: opJkoV8yfScQNK4GkyIdfuNimNBaMKr5wnOmvuNNKa8=
+Modified: 638975338706745619
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Authors\author-bg.yml
+ID: "dc65b8cf-63a5-424e-a739-3b6345f75f92"
+Parent: "459622e9-ebf9-4f77-a067-4ea3c5f7a88c"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: "/sitecore/media library/Project/Financial/ProsperaFinancial/Authors/author-bg"
+Signature: y2LXsdnljMxxl0/S1N6OPDLYWKFkisMcz671whC91aQ=
+Modified: 638975338706735613
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Authors\Patricia-500x500.yml
+ID: "4859f21a-8f82-4abc-ad20-f6ced8cf82ac"
+Parent: "459622e9-ebf9-4f77-a067-4ea3c5f7a88c"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: "/sitecore/media library/Project/Financial/ProsperaFinancial/Authors/Patricia-500x500"
+Signature: 03AFJAHail+sHnweRqh77P7Uz7c3msOokeU8OkY1H3w=
+Modified: 638975338706608025
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Authors\Thomas-500x500.yml
+ID: "9039a674-fd06-4f75-b8f9-6bdfaf5e0fe1"
+Parent: "459622e9-ebf9-4f77-a067-4ea3c5f7a88c"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: "/sitecore/media library/Project/Financial/ProsperaFinancial/Authors/Thomas-500x500"
+Signature: P47zYIY0F3Up3lnTj5Hjw/ygBWEGqAe94RbaOUEykro=
+Modified: 638975338706628019
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Business\business-app-promo.yml
+ID: "b097209e-d865-4282-90ac-0980c254a507"
+Parent: "4842de6e-52a6-49ba-8d1b-7d1b791e69b0"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: "/sitecore/media library/Project/Financial/ProsperaFinancial/Business/business-app-promo"
+Signature: 7sErnnCyE0ddTe0mK0ell0weySiLZKKS5gEjbTUfCfI=
+Modified: 638975338706628019
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Business\not-for-profit-promo.yml
+ID: "e2e228a6-f710-42ec-a6ed-49668c2743ba"
+Parent: "4842de6e-52a6-49ba-8d1b-7d1b791e69b0"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: "/sitecore/media library/Project/Financial/ProsperaFinancial/Business/not-for-profit-promo"
+Signature: 7/BhLamteim+PqKiosk9Nw7/mVd9ZukSr5anUYf3hrY=
+Modified: 638975338706628019
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Business\Small business loans.yml
+ID: "df7f29e5-0d36-4dbe-8109-7ce2286e0218"
+Parent: "4842de6e-52a6-49ba-8d1b-7d1b791e69b0"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/Financial/ProsperaFinancial/Business/Small business loans
+Signature: IkyqFck2WU52WdWJe3RtwY/tp5UbScJgP7gTueGMq/E=
+Modified: 638975338706598017
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Business\small-business-promo.yml
+ID: "8cfc36bf-890c-4ca2-895e-89f50ae924fe"
+Parent: "4842de6e-52a6-49ba-8d1b-7d1b791e69b0"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: "/sitecore/media library/Project/Financial/ProsperaFinancial/Business/small-business-promo"
+Signature: rYb343F1rNeW+hn5ej1BqFaOUXOkhk/eG41joQMrM2k=
+Modified: 638975338706755616
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Mockups\big-promo3.yml
+ID: "cf40ee41-9d96-4764-9dcf-77684ee004af"
+Parent: "66cc7dbc-efea-46b5-8e9e-97ca56f1fd02"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: "/sitecore/media library/Project/Financial/ProsperaFinancial/Mockups/big-promo3"
+Signature: eDLJlyt+80H878VI+JC6OsoJlPSspmmXUb4waeqXVbs=
+Modified: 638975338706745619
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Mockups\bottom-promo.yml
+ID: "51ed4f79-b602-420e-9b3a-f21f831a6772"
+Parent: "66cc7dbc-efea-46b5-8e9e-97ca56f1fd02"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: "/sitecore/media library/Project/Financial/ProsperaFinancial/Mockups/bottom-promo"
+Signature: Ireav49x00oFwHiRH+YsiVG+wCdPbRbo1L+oxaTFCGg=
+Modified: 638975338706760682
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Mockups\btn-App-Store-Light.yml
+ID: "feaf65d3-3948-46da-b952-13780d61aada"
+Parent: "66cc7dbc-efea-46b5-8e9e-97ca56f1fd02"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: "/sitecore/media library/Project/Financial/ProsperaFinancial/Mockups/btn-App-Store-Light"
+Signature: zM80NluOCCQq6Z8st8LC16q42P1bQbnbKNALn6Zv88M=
+Modified: 638975338706638013
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Mockups\four-col-promo-3.yml
+ID: "a66b93b7-7a89-47a4-a44f-492c4381b75e"
+Parent: "66cc7dbc-efea-46b5-8e9e-97ca56f1fd02"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: "/sitecore/media library/Project/Financial/ProsperaFinancial/Mockups/four-col-promo-3"
+Signature: 86W5nmJKSNLwOZDobvTD9DDX0z14Dy+PPIqBHF4UApI=
+Modified: 638975338706663065
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Mockups\four-col-promo-4.yml
+ID: "ef4c0417-cc75-4483-ba8e-1dbe32dd7487"
+Parent: "66cc7dbc-efea-46b5-8e9e-97ca56f1fd02"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: "/sitecore/media library/Project/Financial/ProsperaFinancial/Mockups/four-col-promo-4"
+Signature: BMVVxctGm3xC//C39mScMmPFWnKbGCAVfFfyWGDCQpc=
+Modified: 638975338706770761
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Mockups\house-key-calculator-with-dollar-bills.yml
+ID: "d5a59561-6eb1-4aab-b8fe-7d426c08139b"
+Parent: "66cc7dbc-efea-46b5-8e9e-97ca56f1fd02"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: "/sitecore/media library/Project/Financial/ProsperaFinancial/Mockups/house-key-calculator-with-dollar-bills"
+Signature: 9pHPLDS1plcJuYQOyVRm19qKCpLePohTVZMwVJL3pwA=
+Modified: 638975338706715614
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Mockups\main_promo.yml
+ID: "47275d2d-a05e-462b-bddc-22ae9583a1d1"
+Parent: "66cc7dbc-efea-46b5-8e9e-97ca56f1fd02"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: /sitecore/media library/Project/Financial/ProsperaFinancial/Mockups/main_promo
+Signature: yHb7Lz96wFh46JGohWQi1ErN1i4EKEIw59AIGQcT3gc=
+Modified: 638975338706760682
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Mockups\pexels-alexander-suhorucov-6457521.yml
+ID: "233f19e1-95e3-4c06-adfa-79a80a9e1371"
+Parent: "66cc7dbc-efea-46b5-8e9e-97ca56f1fd02"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: "/sitecore/media library/Project/Financial/ProsperaFinancial/Mockups/pexels-alexander-suhorucov-6457521"
+Signature: 9NQ7F5ZrcXd80uUaIR5txy9IruZg2y9o2gN9psSXOjE=
+Modified: 638975338706715614
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Mockups\promo_1.yml
+ID: "880496a7-ec36-4889-8d69-13946d944150"
+Parent: "66cc7dbc-efea-46b5-8e9e-97ca56f1fd02"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: /sitecore/media library/Project/Financial/ProsperaFinancial/Mockups/promo_1
+Signature: 2frAI+pZ0B+XzkGomLITMTwH7rtJzb4g6QLlL+agXzs=
+Modified: 638975338706695617
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Mockups\promo_2.yml
+ID: "6a5f5f52-52ff-411a-93fe-19e944c85b18"
+Parent: "66cc7dbc-efea-46b5-8e9e-97ca56f1fd02"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: /sitecore/media library/Project/Financial/ProsperaFinancial/Mockups/promo_2
+Signature: ommPw9XOVXp9QpYdFkE7Xqy37FpRdRItqzZ1OQ9MXD0=
+Modified: 638975338706695617
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Mockups\promo_3.yml
+ID: "84c5edb9-b352-4a73-93bd-052202536662"
+Parent: "66cc7dbc-efea-46b5-8e9e-97ca56f1fd02"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: /sitecore/media library/Project/Financial/ProsperaFinancial/Mockups/promo_3
+Signature: 5CyaHmLVevbmwK36YA1qAEySrqVioNaJQ/DmP5xKa8E=
+Modified: 638975338706784922
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Mockups\top-view-frame-economy-charts.yml
+ID: "d3320f0a-eae0-4b0f-b74d-1f4819d3fb9c"
+Parent: "66cc7dbc-efea-46b5-8e9e-97ca56f1fd02"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: "/sitecore/media library/Project/Financial/ProsperaFinancial/Mockups/top-view-frame-economy-charts"
+Signature: ISsjrunKU4nD+T62koSef+OswGKHNnqlRnlyp+6G7pw=
+Modified: 638975338706735613
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Mockups\top-view-passport-money-with-copy-space.yml
+ID: "7ed35c53-b0c3-4508-8561-edec520bb63a"
+Parent: "66cc7dbc-efea-46b5-8e9e-97ca56f1fd02"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: "/sitecore/media library/Project/Financial/ProsperaFinancial/Mockups/top-view-passport-money-with-copy-space"
+Signature: +p6AG6KdCEb9xIKax0RT3SBmS8q6tVX2nIEGZ4cSGwI=
+Modified: 638975338707039592
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Mockups\two-col-cta-1.yml
+ID: "a4ce3822-1bfc-4876-9353-0d43914fddc9"
+Parent: "66cc7dbc-efea-46b5-8e9e-97ca56f1fd02"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: "/sitecore/media library/Project/Financial/ProsperaFinancial/Mockups/two-col-cta-1"
+Signature: V2pyI/SszIT1+od/d+qRP/IVDgNaTkVgJiSM3fy6Zmg=
+Modified: 638975338706770761
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Mockups\two-col-cta-2.yml
+ID: "f64c8c16-8c71-44e1-a658-b3070574b89e"
+Parent: "66cc7dbc-efea-46b5-8e9e-97ca56f1fd02"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: "/sitecore/media library/Project/Financial/ProsperaFinancial/Mockups/two-col-cta-2"
+Signature: Q3ci3C+HvvuHVhbCw7umeR5CrSldzCU4iDOp2FCahV4=
+Modified: 638975338706760682
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Mockups\young-black-man-top-dancing.yml
+ID: "7e3df442-576b-4d52-8bc9-214434893e63"
+Parent: "66cc7dbc-efea-46b5-8e9e-97ca56f1fd02"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: "/sitecore/media library/Project/Financial/ProsperaFinancial/Mockups/young-black-man-top-dancing"
+Signature: 2yvkpMG7BRGXMiXZWMO5dG237BFToKfBAAGiSMIm4RQ=
+Modified: 638975338706770761
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Personal\Borrowing.yml
+ID: "160d7609-b15c-4d78-ab6e-cd6b9cdbbda3"
+Parent: "31860239-b0f2-4dcd-88dc-d45e87b2a03a"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/Financial/ProsperaFinancial/Personal/Borrowing
+Signature: iZGaJMTKBdt8dy5U9XOkVo/06ZrGP4pdVR+NiTE/Dj4=
+Modified: 638975338706735613
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Retirement planning\Building wealth.yml
+ID: "0af4a3c7-7469-497f-a906-ce6125fa2633"
+Parent: "a61ffb24-1060-4f63-ae12-fe0571ed5e27"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/Financial/ProsperaFinancial/Retirement planning/Building wealth
+Signature: KEbc6F9djoHKqG24AdeDgX4gDXADcAqLgl4o/q55BuI=
+Modified: 638975338706770761
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Retirement planning\building-wealth-promo.yml
+ID: "5b6f7e50-058a-4663-ace6-2d6a51beb011"
+Parent: "a61ffb24-1060-4f63-ae12-fe0571ed5e27"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: "/sitecore/media library/Project/Financial/ProsperaFinancial/Retirement planning/building-wealth-promo"
+Signature: vGnRUoAH1RhFEpHdqKuxggkdRlyToKOCG1KGBTNXuKU=
+Modified: 638975338706845008
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Retirement planning\Estate planning.yml
+ID: "40462f34-2956-4a23-811d-b61e5a8546fb"
+Parent: "a61ffb24-1060-4f63-ae12-fe0571ed5e27"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/Financial/ProsperaFinancial/Retirement planning/Estate planning
+Signature: i7uqsxY8oFNX6YJTzij9ON5RSR/mUIdLFIVw6SAEzWk=
+Modified: 638975338706805012
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Retirement planning\investing-promo.yml
+ID: "18caef88-6b70-4a56-a697-7d37400338ea"
+Parent: "a61ffb24-1060-4f63-ae12-fe0571ed5e27"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: "/sitecore/media library/Project/Financial/ProsperaFinancial/Retirement planning/investing-promo"
+Signature: IQBgxMKiSJYw2QORc/S6fO792EtGx99hPbJpThUk394=
+Modified: 638975338706870173
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Retirement planning\Living in retirement.yml
+ID: "bb39a856-124d-433f-af4e-ca48900f677f"
+Parent: "a61ffb24-1060-4f63-ae12-fe0571ed5e27"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/Financial/ProsperaFinancial/Retirement planning/Living in retirement
+Signature: 6cLxmhKWfXg1gcMsR/ZckpG4EfkW2j6DfETascbYlo0=
+Modified: 638975338706794996
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Retirement planning\retirement-app-promo.yml
+ID: "22277b76-bf4e-4f1c-90ff-ee0936d7df63"
+Parent: "a61ffb24-1060-4f63-ae12-fe0571ed5e27"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: "/sitecore/media library/Project/Financial/ProsperaFinancial/Retirement planning/retirement-app-promo"
+Signature: Ry8mYFKOz6qFsXyOCTWmjxJt6PqccU7sN74ykCBL/co=
+Modified: 638975338706825007
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Retirement planning\retirement-overwhelmed-promo.yml
+ID: "bfaef7a3-757a-4c08-a2de-8cd3224262b9"
+Parent: "a61ffb24-1060-4f63-ae12-fe0571ed5e27"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: "/sitecore/media library/Project/Financial/ProsperaFinancial/Retirement planning/retirement-overwhelmed-promo"
+Signature: 2H7UK3Y3MLT/7FKRDNjixYY+ycFEVYnd6hJy3dPx370=
+Modified: 638975338706815008
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Retirement planning\retirement-planning-background.yml
+ID: "acd06dbf-c48e-47ae-9754-bb27ac58fb76"
+Parent: "a61ffb24-1060-4f63-ae12-fe0571ed5e27"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: "/sitecore/media library/Project/Financial/ProsperaFinancial/Retirement planning/retirement-planning-background"
+Signature: fVgShRTsQXt+G1Wq71H9QzkaO8SCnJ8KsGXazmE/EL0=
+Modified: 638975338707039592
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Screenshots\financial_home.yml
+ID: "cbcf5a12-3fcf-4c0f-b219-fa425caaed97"
+Parent: "67a776c5-84f4-4493-8984-12aa22ffd442"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: /sitecore/media library/Project/Financial/ProsperaFinancial/Screenshots/financial_home
+Signature: 83w1kof44o0dMX3WTeEvWJnLZF6Qsno1LeaDzrXxm3s=
+Modified: 638975338706845008
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Screenshots\footer.yml
+ID: "64b80c95-a615-4326-a64d-9e895d9a89f0"
+Parent: "67a776c5-84f4-4493-8984-12aa22ffd442"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: /sitecore/media library/Project/Financial/ProsperaFinancial/Screenshots/footer
+Signature: iSrFm9onYLYe10nC8IRJzHJ3aOc1mj4hEqqb93PsFMI=
+Modified: 638975338706944363
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Screenshots\header.yml
+ID: "fd994c91-f60c-4fe8-91c7-de26f104d997"
+Parent: "67a776c5-84f4-4493-8984-12aa22ffd442"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: /sitecore/media library/Project/Financial/ProsperaFinancial/Screenshots/header
+Signature: 9Q0ebC1EWMfKYpaodKj7WFEt+paVVdtWgOR7t7dDCHI=
+Modified: 638975338706835002
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Screenshots\personal-content-screenshot.yml
+ID: "6e98eab7-1c05-43e1-ad32-63936ef4b57b"
+Parent: "67a776c5-84f4-4493-8984-12aa22ffd442"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: "/sitecore/media library/Project/Financial/ProsperaFinancial/Screenshots/personal-content-screenshot"
+Signature: UkAprhq62BQtDhq1ph0N0Ku5UWwutwKlfYMQxZ/et/Y=
+Modified: 638975338706944363
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Screenshots\retirement-content-screenshot.yml
+ID: "aa22cf1c-4ad5-47f3-9898-031fe6afe60a"
+Parent: "67a776c5-84f4-4493-8984-12aa22ffd442"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: "/sitecore/media library/Project/Financial/ProsperaFinancial/Screenshots/retirement-content-screenshot"
+Signature: uhbIA8TqjlvK6EMGG2HRSE6njT9fysSxWfWSBA+R3PU=
+Modified: 638975338706934367
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Sitemaps\Financial.yml
+ID: "5301ed80-1946-4894-a441-a609f249eb86"
+Parent: "299c0b68-ef43-49ec-ad80-2ef3077baf6e"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/Financial/ProsperaFinancial/Sitemaps/Financial
+Signature: 3SYc/SaKZ5/d3ojJ1V++iA6Gek6mAHz6JtqwGvLTtzg=
+Modified: 638975338706815008
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\SVG\file_icon.yml
+ID: "c68e680c-6330-4e4f-b0bd-90cd8fa36403"
+Parent: "2a3dbf56-ac6b-43b2-9cfc-7f0ae30ee272"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Project/Financial/ProsperaFinancial/SVG/file_icon
+Signature: 07pzg5e6EgeBrCwEsIpSCIBX1E1+B7TT6Nm9Y5Z9aYA=
+Modified: 638975338706904366
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\SVG\Group 12.yml
+ID: "dbea34f0-d634-4a6b-a7ed-2cfe5af909aa"
+Parent: "2a3dbf56-ac6b-43b2-9cfc-7f0ae30ee272"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Project/Financial/ProsperaFinancial/SVG/Group 12
+Signature: pbcXYEi7MH44fQ9YEH8z6WSdd8ACiaeTR7BwzfXVfcM=
+Modified: 638975338706894368
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\Services\Mockups\facebook.yml
+ID: "37e8f17d-5aa1-4af4-9cb1-45c4f07bdd4c"
+Parent: "aac59603-dfd5-42ff-857d-8b8cc72edc54"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: /sitecore/media library/Project/Financial/Services/Mockups/facebook
+Signature: 6AcIP3PJTUbz5VONtnS4hlGYNvm33UNefgWyFUq1mco=
+Modified: 638975227009881595
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\Services\Mockups\gift-orange.yml
+ID: "23592312-2c5f-49ee-8517-2d9df508280b"
+Parent: "aac59603-dfd5-42ff-857d-8b8cc72edc54"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: "/sitecore/media library/Project/Financial/Services/Mockups/gift-orange"
+Signature: J0udOPqNZHULPDGNovafuQU9Kw0DreqecFbUwPxwdks=
+Modified: 638975227009891640
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\Services\Mockups\gift-white.yml
+ID: "03f22709-a426-4df2-8b93-c27c3fa48d43"
+Parent: "aac59603-dfd5-42ff-857d-8b8cc72edc54"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: "/sitecore/media library/Project/Financial/Services/Mockups/gift-white"
+Signature: Pre333DmM+k4VIB11a86f1MnVVHZDnyfr8Y1nzsKv/w=
+Modified: 638975227009901628
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\Services\Mockups\instagram.yml
+ID: "b5e0c7f5-5693-4875-b68f-70b99e7f34ef"
+Parent: "aac59603-dfd5-42ff-857d-8b8cc72edc54"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: /sitecore/media library/Project/Financial/Services/Mockups/instagram
+Signature: r6LISpPKHdh5pgg9bDkdytq9psvJFL5nSkK0VJamG4I=
+Modified: 638975227009911627
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\Services\Mockups\Logos.yml
+ID: "1cc5b501-8eba-4526-8334-ef2dc054b9a4"
+Parent: "aac59603-dfd5-42ff-857d-8b8cc72edc54"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/Financial/Services/Mockups/Logos
+Signature: hKFxG6trqqa8fz5vBKo4qVWScDp+BJRKFow0Bav9KhA=
+Modified: 638974408202598613
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\Services\Mockups\mapBackground.yml
+ID: "001e150c-8c21-444b-8919-6127d58193eb"
+Parent: "aac59603-dfd5-42ff-857d-8b8cc72edc54"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: /sitecore/media library/Project/Financial/Services/Mockups/mapBackground
+Signature: efj3jNQkfVGKJhubuHd7Sd0un1Hsb0x8begSmyKPcB4=
+Modified: 638975227009946694
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\Services\Mockups\Mask-4.yml
+ID: "8899aa9a-ca17-445c-8b83-fbec5afd6a2a"
+Parent: "aac59603-dfd5-42ff-857d-8b8cc72edc54"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: "/sitecore/media library/Project/Financial/Services/Mockups/Mask-4"
+Signature: nnfQ0DSE2n67PgXkIntVVscsPx4xqVlxpcGLOZLiLgI=
+Modified: 638975227009966709
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\Services\Mockups\Mask-5.yml
+ID: "edd9b7e5-8f44-49d4-ab6a-dd43ac6690c8"
+Parent: "aac59603-dfd5-42ff-857d-8b8cc72edc54"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: "/sitecore/media library/Project/Financial/Services/Mockups/Mask-5"
+Signature: XrGgVdH/vwzvubUy+u1bbJgPJ0VbJW9hoLbl5bQMZhU=
+Modified: 638975227009976717
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\Services\Mockups\Mask-6.yml
+ID: "0c9feedf-6496-4651-8b67-8946b597bf5a"
+Parent: "aac59603-dfd5-42ff-857d-8b8cc72edc54"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: "/sitecore/media library/Project/Financial/Services/Mockups/Mask-6"
+Signature: 4E75t50iW2YVvaaAxwxkQ3ZOS9/SJsDHli80ySgSXHY=
+Modified: 638975227010001861
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\Services\Mockups\Mask-8.yml
+ID: "a009945f-2e17-4eb5-9b8f-ad78493b4d28"
+Parent: "aac59603-dfd5-42ff-857d-8b8cc72edc54"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: "/sitecore/media library/Project/Financial/Services/Mockups/Mask-8"
+Signature: 2quAmh6R53guj38ReKmhBs3Jn/CRmlBpN3HAAi8PZA8=
+Modified: 638975227010021861
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\Services\Mockups\pexels-kindelmedia-7688336.yml
+ID: "e74e0623-a9ff-4833-9968-14d55a05db5f"
+Parent: "aac59603-dfd5-42ff-857d-8b8cc72edc54"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: "/sitecore/media library/Project/Financial/Services/Mockups/pexels-kindelmedia-7688336"
+Signature: wKjw1HHKqQTsq5hMYsNJaxNKSkJpUMBR9dQZnGJ3V1g=
+Modified: 638975227010055016
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\Services\Mockups\pexels-yankrukov-7793687.yml
+ID: "4a120536-025e-42c8-8f24-8412246d7c26"
+Parent: "aac59603-dfd5-42ff-857d-8b8cc72edc54"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: "/sitecore/media library/Project/Financial/Services/Mockups/pexels-yankrukov-7793687"
+Signature: GDO7Gr+YDCS0+yVX2rHHAj63cn9Z8QdKAtjVsZRp0Sc=
+Modified: 638975227010100105
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\Services\Mockups\promo-cta-1.yml
+ID: "9b077b69-f94d-48ca-95fc-5e88b39d41a3"
+Parent: "aac59603-dfd5-42ff-857d-8b8cc72edc54"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: "/sitecore/media library/Project/Financial/Services/Mockups/promo-cta-1"
+Signature: V0TY/lHeQgMnVE3b2HACfGFYqfsGZ0AC7/9O2R/XKDs=
+Modified: 638975227010130189
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\Services\Mockups\promo-cta-2.yml
+ID: "21831ebb-9058-44d6-aebc-93fb88d3a0e8"
+Parent: "aac59603-dfd5-42ff-857d-8b8cc72edc54"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: "/sitecore/media library/Project/Financial/Services/Mockups/promo-cta-2"
+Signature: BzsYUFYlE7tUMLatyeugv27fPha2/BIwflPe6X2vDHY=
+Modified: 638975227010165262
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\Services\Mockups\promo-cta-3.yml
+ID: "7a18bb4c-bf36-4b41-b535-7341bfed3538"
+Parent: "aac59603-dfd5-42ff-857d-8b8cc72edc54"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: "/sitecore/media library/Project/Financial/Services/Mockups/promo-cta-3"
+Signature: N2RwmWlbOtDFBkIp+4aL5O0EftSVGyjxKexR4ytCGXM=
+Modified: 638975227010190346
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\Services\Mockups\pServicesLogo.yml
+ID: "03a4c5c6-a34f-4a6b-b8bc-6cdc2b2b5deb"
+Parent: "aac59603-dfd5-42ff-857d-8b8cc72edc54"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Project/Financial/Services/Mockups/pServicesLogo
+Signature: ipc+0aNruR1vhZNeIgA/JJzksRSL7WYYG3EznzWq3sQ=
+Modified: 638975227010200439
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\Services\Mockups\shutterstock_1489621664.yml
+ID: "bdc1d295-557c-4242-95aa-1a72eb40621b"
+Parent: "aac59603-dfd5-42ff-857d-8b8cc72edc54"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: /sitecore/media library/Project/Financial/Services/Mockups/shutterstock_1489621664
+Signature: TJkxtc3nqz7fnMoNje/3RpA3ARMpV6dvTn98r1oQync=
+Modified: 638975227010275512
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\Services\Mockups\shutterstock_538875487.yml
+ID: "b91f0b6c-8e56-4d67-96ea-4ea314582cc8"
+Parent: "aac59603-dfd5-42ff-857d-8b8cc72edc54"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: /sitecore/media library/Project/Financial/Services/Mockups/shutterstock_538875487
+Signature: OeYhnIL3LvVk9hFnHhhleTcQO2zDlXi65r8NAcx/2Fw=
+Modified: 638975227010430905
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\Services\Mockups\shutterstock_619714844.yml
+ID: "8c1f5f3b-03ca-4e40-94db-96ca50a2d186"
+Parent: "aac59603-dfd5-42ff-857d-8b8cc72edc54"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: /sitecore/media library/Project/Financial/Services/Mockups/shutterstock_619714844
+Signature: V2r3zszpxmFbqUAIXHXxY3fO7BbAFH+wJDgCFotqbV4=
+Modified: 638975227010501186
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\Services\Mockups\stats1.yml
+ID: "3cb083e8-e8ce-4dc5-b1fc-04b86ac4fd86"
+Parent: "aac59603-dfd5-42ff-857d-8b8cc72edc54"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: /sitecore/media library/Project/Financial/Services/Mockups/stats1
+Signature: srxRSL7jI1Jf63Q5L6O30uGxEG0ACPPvdP8OwgcCCYc=
+Modified: 638975227010521178
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\Services\Mockups\stats2.yml
+ID: "3733a04c-d1b9-4ae4-90a1-29c773b1198f"
+Parent: "aac59603-dfd5-42ff-857d-8b8cc72edc54"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: /sitecore/media library/Project/Financial/Services/Mockups/stats2
+Signature: dl7GXdIO49fJ9DeRUCYs++3vo/k6onQfdUj6g/5jBbs=
+Modified: 638975227010531196
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\Services\Mockups\tcc1.yml
+ID: "0189e223-e85e-4fc2-b09a-4d936003f0c3"
+Parent: "aac59603-dfd5-42ff-857d-8b8cc72edc54"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: /sitecore/media library/Project/Financial/Services/Mockups/tcc1
+Signature: yRcEuHaBZhLYaJjwP2HILeKEbH8iS6xv/UKsXdJkfZk=
+Modified: 638975227010541172
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\Services\Mockups\tcc2.yml
+ID: "4378f2d2-7e3e-4191-999d-5e950ec2466d"
+Parent: "aac59603-dfd5-42ff-857d-8b8cc72edc54"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: /sitecore/media library/Project/Financial/Services/Mockups/tcc2
+Signature: rfxb9FttjYO9VtZyRHhX0Rr6nLVPFvxbvbGVFktv31w=
+Modified: 638975227010541172
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\Services\Mockups\tcc3.yml
+ID: "8845b07e-7f3b-46f0-9748-57f7acf56bb1"
+Parent: "aac59603-dfd5-42ff-857d-8b8cc72edc54"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: /sitecore/media library/Project/Financial/Services/Mockups/tcc3
+Signature: nwkikRTuuPJy6hy3p0SKVerRHKwd75ibf8tjBsF5HrI=
+Modified: 638975227010555974
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Mockups\promo_4.yml
+ID: "74b0066c-6971-44ae-b8b8-ab18a359bc40"
+Parent: "66cc7dbc-efea-46b5-8e9e-97ca56f1fd02"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: /sitecore/media library/Project/Financial/ProsperaFinancial/Mockups/promo_4
+Signature: shYeJtR7hfpYc2xf9JDq20/gpMbsmNNcQdHMdlzphN4=
+Modified: 638975338706735613
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Mockups\promo_5.yml
+ID: "2b337bc4-73d7-4917-b5ce-ef675f20ba33"
+Parent: "66cc7dbc-efea-46b5-8e9e-97ca56f1fd02"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: /sitecore/media library/Project/Financial/ProsperaFinancial/Mockups/promo_5
+Signature: EnmTsEw6+vz0Af4UDKd7D43JkIyycKzStXtB4Xpd1ak=
+Modified: 638975338706695617
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Mockups\three-col-promo-1.yml
+ID: "8017eaf8-d51d-49de-9c1a-2c6de732fced"
+Parent: "66cc7dbc-efea-46b5-8e9e-97ca56f1fd02"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: "/sitecore/media library/Project/Financial/ProsperaFinancial/Mockups/three-col-promo-1"
+Signature: epZDMYrUS7vv0NJa+hDD0QWPbppv+YNbYni4yExSpFY=
+Modified: 638975338706805012
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Mockups\three-col-promo-2.yml
+ID: "c134c176-9e56-4e09-9c1c-6cc00cdc2735"
+Parent: "66cc7dbc-efea-46b5-8e9e-97ca56f1fd02"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: "/sitecore/media library/Project/Financial/ProsperaFinancial/Mockups/three-col-promo-2"
+Signature: QUVWYEae7SNRlXuc4ZsTA4gp3lmPV4MqgkPJozXBkmY=
+Modified: 638975338706745619
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Mockups\three-col-promo-3.yml
+ID: "3677b4cd-3d12-4a64-bc02-b1502d4a0224"
+Parent: "66cc7dbc-efea-46b5-8e9e-97ca56f1fd02"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: "/sitecore/media library/Project/Financial/ProsperaFinancial/Mockups/three-col-promo-3"
+Signature: iBHbqoRMZ09JSxc2e8iVvH7W//I3fhiBIc2p02Ec9M0=
+Modified: 638975338706715614
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Mockups\three-col-promo-4.yml
+ID: "64483f30-f620-4a5e-b35e-0086e4573bb5"
+Parent: "66cc7dbc-efea-46b5-8e9e-97ca56f1fd02"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: "/sitecore/media library/Project/Financial/ProsperaFinancial/Mockups/three-col-promo-4"
+Signature: YF4bQvjKSn92WYDkT0gpPTmtM9pa1y/KXn+RVVy3WSE=
+Modified: 638975338706770761
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Mockups\three-col-promo-5.yml
+ID: "6e6e4078-555c-4658-afd1-6815bb3d9ee9"
+Parent: "66cc7dbc-efea-46b5-8e9e-97ca56f1fd02"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: "/sitecore/media library/Project/Financial/ProsperaFinancial/Mockups/three-col-promo-5"
+Signature: +UhShAe3GbANnfBVLcgWoXHlP11Lww6FfPqeUkwXmgg=
+Modified: 638975338706815008
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Mockups\three-col-promo-6.yml
+ID: "2673fdee-8f65-498a-b293-6a0af4c001c7"
+Parent: "66cc7dbc-efea-46b5-8e9e-97ca56f1fd02"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: "/sitecore/media library/Project/Financial/ProsperaFinancial/Mockups/three-col-promo-6"
+Signature: 3Ra+Gc/P9bEiGGK7NCutVGh6/TF0y88OQ1SYN85POTY=
+Modified: 638975338706784922
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Personal\Everyday banking.yml
+ID: "a448a32c-f2fa-4e0d-9677-5ce29c11fe32"
+Parent: "31860239-b0f2-4dcd-88dc-d45e87b2a03a"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/Financial/ProsperaFinancial/Personal/Everyday banking
+Signature: Zsj12JdZrsIolhX3CiSZYEh8bblEku+WbbaQeX4DlII=
+Modified: 638975338706770761
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Personal\Investing.yml
+ID: "78ae27ae-07b1-4927-a4e4-37ca1383783c"
+Parent: "31860239-b0f2-4dcd-88dc-d45e87b2a03a"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/Financial/ProsperaFinancial/Personal/Investing
+Signature: I3IqVPdBbbjZpL85pmMCKbA2QtNaCf7iAuwiNhoEga8=
+Modified: 638975338706705618
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Personal\personal-banking.yml
+ID: "d7575add-9b52-4b2e-9450-e908e7c5d832"
+Parent: "31860239-b0f2-4dcd-88dc-d45e87b2a03a"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: "/sitecore/media library/Project/Financial/ProsperaFinancial/Personal/personal-banking"
+Signature: lEfo0Pluib50xndjg8w51IBbQOo2y3i+kMmzdl2n4j4=
+Modified: 638975338706805012
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Personal\personal-borrowing.yml
+ID: "6d717ed0-55eb-4f2a-8d96-1384936bf4da"
+Parent: "31860239-b0f2-4dcd-88dc-d45e87b2a03a"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: "/sitecore/media library/Project/Financial/ProsperaFinancial/Personal/personal-borrowing"
+Signature: Cu2UZctKNjNOHlWFHhEbyDi2iieJ9vWnC7dbr+MaFS4=
+Modified: 638975338706760682
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Personal\personal-ease-confidence.yml
+ID: "ad841752-4df5-48d6-aded-9fded904a48b"
+Parent: "31860239-b0f2-4dcd-88dc-d45e87b2a03a"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: "/sitecore/media library/Project/Financial/ProsperaFinancial/Personal/personal-ease-confidence"
+Signature: nsFpHtZb3wHWuNi3hdRc0YOfCR+kTpesZ6VnULSKPvs=
+Modified: 638975338706770761
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Personal\personal-investing.yml
+ID: "a4eefca4-4624-4ccf-951a-fc8f4053f342"
+Parent: "31860239-b0f2-4dcd-88dc-d45e87b2a03a"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: "/sitecore/media library/Project/Financial/ProsperaFinancial/Personal/personal-investing"
+Signature: Q0Izp9prH9EQiMKDM2dSm7OuCXlltX1p7KAhT1ERESs=
+Modified: 638975338706794996
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Personal\personal-modern-banking.yml
+ID: "88c8fc6e-bef7-47ab-a71d-fff9feeaf82b"
+Parent: "31860239-b0f2-4dcd-88dc-d45e87b2a03a"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: "/sitecore/media library/Project/Financial/ProsperaFinancial/Personal/personal-modern-banking"
+Signature: fnSd+7C8S1JTBDHFidhgcMwTImAeIsS+SjGF89sfiJc=
+Modified: 638975338706835002
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Placeholders\1920x720.yml
+ID: "99617de0-ead5-448e-bc85-eae51558631d"
+Parent: "1201991a-b76c-494f-afbb-719b4515a18c"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: /sitecore/media library/Project/Financial/ProsperaFinancial/Placeholders/1920x720
+Signature: SbuaL5MAYThKCBS8E/QIXRpj8xNqi1aJEQHDZhlTnYI=
+Modified: 638975338706815008
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Retirement planning\retirement-planning-promo.yml
+ID: "c0ee8107-1e59-4e6a-a8b9-03f87403a5a5"
+Parent: "a61ffb24-1060-4f63-ae12-fe0571ed5e27"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: "/sitecore/media library/Project/Financial/ProsperaFinancial/Retirement planning/retirement-planning-promo"
+Signature: ZaxtsW4iBymVEYg7nKcilfdQ1pkjq4OoW4pYo8WgH08=
+Modified: 638975338706870173
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Screenshots\article-content.yml
+ID: "9140a734-31d0-4ff3-8921-84beedba4b4e"
+Parent: "67a776c5-84f4-4493-8984-12aa22ffd442"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: "/sitecore/media library/Project/Financial/ProsperaFinancial/Screenshots/article-content"
+Signature: Pgi0QYe1oguRJ68wmAq8rez8l9LQZjLb/bvA623BqIg=
+Modified: 638975338706870173
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Screenshots\article-page.yml
+ID: "9577ff23-7437-4375-9962-c6fe1d39c171"
+Parent: "67a776c5-84f4-4493-8984-12aa22ffd442"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: "/sitecore/media library/Project/Financial/ProsperaFinancial/Screenshots/article-page"
+Signature: yexBtkV3YpYpWFah34+QpKu1CDLGf9dCbzHbQlBYwCo=
+Modified: 638975338706835002
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Screenshots\author-page.yml
+ID: "86397c8b-8014-42e7-b303-7d7a842416f0"
+Parent: "67a776c5-84f4-4493-8984-12aa22ffd442"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: "/sitecore/media library/Project/Financial/ProsperaFinancial/Screenshots/author-page"
+Signature: w1yprho5XLgvbvjfrXQ03+fhdrJl0uP4YgdmxZkdX5s=
+Modified: 638975338706845008
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Screenshots\business-content-screenshot.yml
+ID: "70afcb8f-e7cf-4c12-8c5b-37fe590e51b9"
+Parent: "67a776c5-84f4-4493-8984-12aa22ffd442"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: "/sitecore/media library/Project/Financial/ProsperaFinancial/Screenshots/business-content-screenshot"
+Signature: Dpq222YQZVWXwMk4mEQyUdAOb01ICyEPKicBavQg6UA=
+Modified: 638975338707029583
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Screenshots\content-page.yml
+ID: "034edba8-6196-440a-9609-f804a98df7a5"
+Parent: "67a776c5-84f4-4493-8984-12aa22ffd442"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: "/sitecore/media library/Project/Financial/ProsperaFinancial/Screenshots/content-page"
+Signature: ICCgoAyCJ4EyEVqWHM3ii8DFXYz9zKzhnfPKxraOvmA=
+Modified: 638975338706870173
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Screenshots\content.yml
+ID: "33bdcb2e-5379-4dcf-93aa-e16abc1ab909"
+Parent: "67a776c5-84f4-4493-8984-12aa22ffd442"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: /sitecore/media library/Project/Financial/ProsperaFinancial/Screenshots/content
+Signature: 6B4AWxQy5+C/vDnWBSEtgwtSdo4iqLLjjPO7mKW/xKw=
+Modified: 638975338706989575
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Screenshots\default-content-screenshot.yml
+ID: "6d4fff86-7749-4cf8-840b-9fdb7b53636e"
+Parent: "67a776c5-84f4-4493-8984-12aa22ffd442"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: "/sitecore/media library/Project/Financial/ProsperaFinancial/Screenshots/default-content-screenshot"
+Signature: IKOWhSDzUSR5xAvNcdXg4zEIOLEDrnSA8eDOQgxTyMA=
+Modified: 638975338706870173
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\SVG\Group 14.yml
+ID: "9718505e-a239-495c-b20a-701decd54c65"
+Parent: "2a3dbf56-ac6b-43b2-9cfc-7f0ae30ee272"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Project/Financial/ProsperaFinancial/SVG/Group 14
+Signature: N3spLyXceCiRI6ewREyrK+3PLsAP3+Akl/KN4dBbJtU=
+Modified: 638975338706914365
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\SVG\Group 4.yml
+ID: "2f831857-9b12-4901-bb71-21080a723266"
+Parent: "2a3dbf56-ac6b-43b2-9cfc-7f0ae30ee272"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Project/Financial/ProsperaFinancial/SVG/Group 4
+Signature: fV1m5AeSDU0oqXY/mQbKKwwI/FYAhjGv1MPEVhhN4xo=
+Modified: 638975338706904366
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\SVG\Group 6.yml
+ID: "08b36b47-dc43-4f6b-8ce1-95a195829509"
+Parent: "2a3dbf56-ac6b-43b2-9cfc-7f0ae30ee272"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Project/Financial/ProsperaFinancial/SVG/Group 6
+Signature: NgkIrXBnZMwaxVTBLYqn1dZzPBH1W/IQwjz0ZWQJc+M=
+Modified: 638975338706904366
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\SVG\Group 8.yml
+ID: "3fe72bf3-5300-452c-bcaa-8fd38fd1d522"
+Parent: "2a3dbf56-ac6b-43b2-9cfc-7f0ae30ee272"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Project/Financial/ProsperaFinancial/SVG/Group 8
+Signature: wl/LR1wlaDlb/95FT7SLNOj0WVAHMwnyLMN46W4UDZU=
+Modified: 638975338706904366
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\SVG\Path 91.yml
+ID: "b9de5e6b-8414-4a6d-91a3-868d14c0857d"
+Parent: "2a3dbf56-ac6b-43b2-9cfc-7f0ae30ee272"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Project/Financial/ProsperaFinancial/SVG/Path 91
+Signature: cyCFOl45+QxK/0jBlKZr0Wuu2vOxJm3twjEk4VGFM50=
+Modified: 638975338706914365
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\SVG\pFinanceLogo.yml
+ID: "1fc53620-6da2-4341-98fd-4782c564070c"
+Parent: "2a3dbf56-ac6b-43b2-9cfc-7f0ae30ee272"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Project/Financial/ProsperaFinancial/SVG/pFinanceLogo
+Signature: znayZzeO2+4JREWdrDXVcgSAUh2Sr6xkVRXCTr33ZzM=
+Modified: 638975338706894368
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\Services\Components\Testimonials.yml
+ID: "1a02e663-536a-4ef7-b706-bef28a9e30d3"
+Parent: "eaafaf03-b8dc-41e6-980d-fb2aff356442"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/Financial/Services/Components/Testimonials
+Signature: baalWV3tbpI5YVBfTDDFx8sD9lWPCXWTa4lfIYWlokI=
+Modified: 638974408202452007
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\Services\Mockups\colleagues-working-desk.yml
+ID: "39982bdf-a69b-4259-991a-ec572b2fa8bd"
+Parent: "aac59603-dfd5-42ff-857d-8b8cc72edc54"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: "/sitecore/media library/Project/Financial/Services/Mockups/colleagues-working-desk"
+Signature: M3En3adpvbVJccqBl0VUrEgd27FvVn1WqMm5zhIXCgs=
+Modified: 638975227009871700
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Business\Small business loans\small-business-loans-promo.yml
+ID: "c5c6a164-300c-4e4f-bda9-b0d0acf8f6ab"
+Parent: "df7f29e5-0d36-4dbe-8109-7ce2286e0218"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: "/sitecore/media library/Project/Financial/ProsperaFinancial/Business/Small business loans/small-business-loans-promo"
+Signature: 5DqlU2SjWOF3INFdPT3qWWMenKeB6RwtfQBhrnbzzsM=
+Modified: 638975338706959441
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Home page\Carousels\Business.yml
+ID: "dbeef093-1570-41b1-bdba-fb12a3803582"
+Parent: "92c5a801-cd85-43e2-8240-34ad352e9314"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/Financial/ProsperaFinancial/Home page/Carousels/Business
+Signature: BCmimynzMhZeqHKb0jPyC+Mnkb1nMajfKpQ/WEvkxCs=
+Modified: 638975338706944363
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Home page\Carousels\Default.yml
+ID: "eec66907-3559-4fa4-9c4e-a34911fa65e1"
+Parent: "92c5a801-cd85-43e2-8240-34ad352e9314"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/Financial/ProsperaFinancial/Home page/Carousels/Default
+Signature: b2tdVZ85Pnp85YwoOgqAGkGriSxPcZjH8Eqsj9qi+KE=
+Modified: 638975338706894368
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Home page\Carousels\Retirement planning.yml
+ID: "78fc449b-0788-480c-823e-793f6bc3d9de"
+Parent: "92c5a801-cd85-43e2-8240-34ad352e9314"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/Financial/ProsperaFinancial/Home page/Carousels/Retirement planning
+Signature: f4whGCBNj35OFPTgqyJdYqxRxXykPyPCAHuLF7zwWvs=
+Modified: 638975338706944363
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Personal\Borrowing\Credit cards.yml
+ID: "8a10c733-359a-446d-97dd-4194106f1cf6"
+Parent: "160d7609-b15c-4d78-ab6e-cd6b9cdbbda3"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/Financial/ProsperaFinancial/Personal/Borrowing/Credit cards
+Signature: qyJrzEctsmE7/kL7lOwm7kLevHWrc00p5+dVgINs5EI=
+Modified: 638975338706894368
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Personal\Borrowing\Credit-Card-App-500x333.yml
+ID: "0a676ec0-8e42-4060-ab50-40bad4accc00"
+Parent: "160d7609-b15c-4d78-ab6e-cd6b9cdbbda3"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: "/sitecore/media library/Project/Financial/ProsperaFinancial/Personal/Borrowing/Credit-Card-App-500x333"
+Signature: jtG6gVh//R6p4lUTCgMe96w3uN5MwS30+i6GgIDAer4=
+Modified: 638975338706989575
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Personal\Borrowing\credit-cards-wallet-promo.yml
+ID: "5ffac568-2839-444e-b2e6-8a0bbe8e2785"
+Parent: "160d7609-b15c-4d78-ab6e-cd6b9cdbbda3"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: "/sitecore/media library/Project/Financial/ProsperaFinancial/Personal/Borrowing/credit-cards-wallet-promo"
+Signature: Rxll4m7wB/fFsIE34Sf+pqX7qTsu5/hPHJk1WxTfZ+c=
+Modified: 638975338706924354
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Personal\Borrowing\Financial-Advisor-500x333.yml
+ID: "5820ac50-1c11-4113-9155-4242a548f623"
+Parent: "160d7609-b15c-4d78-ab6e-cd6b9cdbbda3"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: "/sitecore/media library/Project/Financial/ProsperaFinancial/Personal/Borrowing/Financial-Advisor-500x333"
+Signature: fk9Pyztc/r2f9JuRJ5AC38O4jFux0gxCOaxROYvKLmA=
+Modified: 638975338706959441
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\Services\Components\Testimonials\testimonial2_500px.yml
+ID: "59539ada-7d89-413c-a085-54785d6d2696"
+Parent: "1a02e663-536a-4ef7-b706-bef28a9e30d3"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: /sitecore/media library/Project/Financial/Services/Components/Testimonials/testimonial2_500px
+Signature: xLcfjLaZweTPRWtcx5HeRW+VrKER7TkYoRknMrVZhSk=
+Modified: 638975227010891687
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\Services\Components\Testimonials\testimonial3_500px.yml
+ID: "84cdbc8b-0217-4b49-be15-a215e8b88005"
+Parent: "1a02e663-536a-4ef7-b706-bef28a9e30d3"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: /sitecore/media library/Project/Financial/Services/Components/Testimonials/testimonial3_500px
+Signature: C7mAS21sznH2g30MnaTARD5YKhA9/DOBxswcdzSZ854=
+Modified: 638975227010921732
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\Services\Components\Testimonials\testimonial4_500px.yml
+ID: "fdec27d4-8c12-4384-bf2b-45a9dcff8c21"
+Parent: "1a02e663-536a-4ef7-b706-bef28a9e30d3"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: /sitecore/media library/Project/Financial/Services/Components/Testimonials/testimonial4_500px
+Signature: Y+4jWlELAAIgpxRoeOWJJRWptaSDqilGJT4plmLmk1Q=
+Modified: 638975227010941732
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\Services\Components\Testimonials\testimonial5_500px.yml
+ID: "dad120f3-169a-4c3c-84b2-e7d9d12f587f"
+Parent: "1a02e663-536a-4ef7-b706-bef28a9e30d3"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: /sitecore/media library/Project/Financial/Services/Components/Testimonials/testimonial5_500px
+Signature: GrVr+KFcrhi6pJqrDeB4HuLPypP5n+w7E/bxYU52p74=
+Modified: 638975227010956913
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\Services\Mockups\Logos\logoipsum-286.yml
+ID: "b0cfd28b-88f7-4f0f-95ff-62490d44029e"
+Parent: "1cc5b501-8eba-4526-8334-ef2dc054b9a4"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/Project/Financial/Services/Mockups/Logos/logoipsum-286"
+Signature: oAr1KREWGRYkVQF7cRlGSav/uVIE69jA9nZ9pzZLTc0=
+Modified: 638975227010976906
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\Services\Mockups\Logos\logoipsum-287.yml
+ID: "9d050fdf-42de-4290-b9ce-67c020f31822"
+Parent: "1cc5b501-8eba-4526-8334-ef2dc054b9a4"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/Project/Financial/Services/Mockups/Logos/logoipsum-287"
+Signature: sHDHzvuc4jkTo2u48jsprzzGPDAd4v+riRqDMzMh8IE=
+Modified: 638975227010991934
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\Services\Mockups\Logos\logoipsum-317.yml
+ID: "f7988bda-29eb-41f1-94fa-f07e35e0b5d5"
+Parent: "1cc5b501-8eba-4526-8334-ef2dc054b9a4"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/Project/Financial/Services/Mockups/Logos/logoipsum-317"
+Signature: lpDGy9TkB105JdDMNO9uM7aE0YSd+HaVHB6Bm2ipK1s=
+Modified: 638975227011001986
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\Services\Mockups\Logos\logoipsum-323.yml
+ID: "be5d7615-900b-467b-ad19-58a3907e43ee"
+Parent: "1cc5b501-8eba-4526-8334-ef2dc054b9a4"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/Project/Financial/Services/Mockups/Logos/logoipsum-323"
+Signature: QjVoai9oc4mCN+wsd3+CXndCm+1VAGl9aW6dLy0RaHM=
+Modified: 638975227011011978
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\Services\Mockups\Logos\logoipsum-325.yml
+ID: "d43716fe-5c3a-422b-a49a-1e0cc584545f"
+Parent: "1cc5b501-8eba-4526-8334-ef2dc054b9a4"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/Project/Financial/Services/Mockups/Logos/logoipsum-325"
+Signature: rXVNQAIq1kw0sg8aOaDeE1hSk5r7u8qvLcAlg5DwHzU=
+Modified: 638975227011031978
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\Services\Pages\Insights\achieving-work-life-balance_1920px.yml
+ID: "b3c3b4dd-5342-4d8e-bb36-2aafc420c05f"
+Parent: "ee2a8cd4-b9a9-46cb-b309-fc350ccc3692"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: "/sitecore/media library/Project/Financial/Services/Pages/Insights/achieving-work-life-balance_1920px"
+Signature: vcFYPWBqG/OkHn4ita1eelnXxbSyDSSNB8b+A/0YGdA=
+Modified: 638975227011371429
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\Services\Pages\Insights\building-strong-client-relationships_1920px.yml
+ID: "2a092591-07a1-4c3e-9760-4c32eb157f0d"
+Parent: "ee2a8cd4-b9a9-46cb-b309-fc350ccc3692"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: "/sitecore/media library/Project/Financial/Services/Pages/Insights/building-strong-client-relationships_1920px"
+Signature: GNGHvvYi/efvksYmXgP02+WIdnUG8DvEbejSSWYag3s=
+Modified: 638975227011426569
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\Services\Pages\Insights\career-growth-strategies-for-remote-workers_1920px.yml
+ID: "106c2fb3-783b-40d6-bc81-670c4eee8ded"
+Parent: "ee2a8cd4-b9a9-46cb-b309-fc350ccc3692"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: "/sitecore/media library/Project/Financial/Services/Pages/Insights/career-growth-strategies-for-remote-workers_1920px"
+Signature: CE5K5lW/bjPGKz1hiEqZEqnjYgOfVuDBRn8TP1L6nf4=
+Modified: 638975227011491659
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\Services\Pages\Insights\key-industry-trends-shaping-the-digital-landscape_1920px.yml
+ID: "99a78579-de59-436e-95c3-cc7921226c5f"
+Parent: "ee2a8cd4-b9a9-46cb-b309-fc350ccc3692"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: "/sitecore/media library/Project/Financial/Services/Pages/Insights/key-industry-trends-shaping-the-digital-landscape_1920px"
+Signature: 0M//XsWa+QMSMhGiXr/0f/6UrkD/6Rl6bEAvi5EJBtk=
+Modified: 638975227011531670
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\Services\Pages\Insights\leveraging-ai-for-digital-marketers_1920px.yml
+ID: "bfac7d29-d3e2-48f9-b57b-718035b79a44"
+Parent: "ee2a8cd4-b9a9-46cb-b309-fc350ccc3692"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: "/sitecore/media library/Project/Financial/Services/Pages/Insights/leveraging-ai-for-digital-marketers_1920px"
+Signature: WfrINGeMAxG/yYTbmnTdaN5E46dR+v/5AAxuTXbX8lU=
+Modified: 638975227011576737
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\Services\Pages\Insights\Maximizing-roi-with-digital-ads_1920px.yml
+ID: "e61c43fb-1de5-4fcb-b132-ca8475c14eb8"
+Parent: "ee2a8cd4-b9a9-46cb-b309-fc350ccc3692"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: "/sitecore/media library/Project/Financial/Services/Pages/Insights/Maximizing-roi-with-digital-ads_1920px"
+Signature: DU8DaEEiT1tt+G73iqFiwRzgUGxSK1q4TRrFA6Hn1yA=
+Modified: 638975227011621808
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\Services\Pages\Insights\measuring-success_1920px.yml
+ID: "48da51ca-7557-4dcb-a04a-44c29ba96504"
+Parent: "ee2a8cd4-b9a9-46cb-b309-fc350ccc3692"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: "/sitecore/media library/Project/Financial/Services/Pages/Insights/measuring-success_1920px"
+Signature: QlHupm21MYB3UsqxcHT9IZksA0ZP3NooG+3qOqzKjRA=
+Modified: 638975227011663358
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\Services\Pages\Insights\selecting-images-that-resonate_1920px.yml
+ID: "1cad3ec1-f7b0-4b47-8d85-31a9a39da4d6"
+Parent: "ee2a8cd4-b9a9-46cb-b309-fc350ccc3692"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: "/sitecore/media library/Project/Financial/Services/Pages/Insights/selecting-images-that-resonate_1920px"
+Signature: +sOgBAml+ivmlqWwEOj/iAkrH5n4MNVhL9Q4gtZjoe0=
+Modified: 638975227011708499
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\Services\Pages\Insights\the-creative-process-dilemma_1920px.yml
+ID: "74e7039c-5561-4236-9b5f-33948efa8b41"
+Parent: "ee2a8cd4-b9a9-46cb-b309-fc350ccc3692"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: "/sitecore/media library/Project/Financial/Services/Pages/Insights/the-creative-process-dilemma_1920px"
+Signature: WPgauLUM8HPzXdj5Un9bNfzLbMYiWrzN0F4RcLVW4HA=
+Modified: 638975227011762433
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\Services\Pages\Insights\the-power-of-consistency_1920px.yml
+ID: "1f58a75e-cd57-4521-80be-a4ec9e8e03c2"
+Parent: "ee2a8cd4-b9a9-46cb-b309-fc350ccc3692"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: "/sitecore/media library/Project/Financial/Services/Pages/Insights/the-power-of-consistency_1920px"
+Signature: KX7MmjLQVldPq7gPQ+plHHI82U8c1OeQ73ByY5VLtbQ=
+Modified: 638975227011810350
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\Services\Pages\Team members\optimized_bio1_1500px.yml
+ID: "d26b7818-da56-481c-bc9e-c4f4e2719099"
+Parent: "72029c0e-28d6-41ba-a128-cd318f4eb469"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: /sitecore/media library/Project/Financial/Services/Pages/Team members/optimized_bio1_1500px
+Signature: QTNh8IZOZuPoBc79T8/EXtm3MtAOiCH2x5Uzokp+S6k=
+Modified: 638975227011903571
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\Services\Pages\Team members\optimized_bio2_1500px.yml
+ID: "5dbf2ec2-8350-4239-947f-ddacc6c16e81"
+Parent: "72029c0e-28d6-41ba-a128-cd318f4eb469"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: /sitecore/media library/Project/Financial/Services/Pages/Team members/optimized_bio2_1500px
+Signature: yK/nftGQAM/f9pSvsQC5EhpGunrGBEXjh1Do2KcF8PY=
+Modified: 638975227011980391
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\Services\Pages\Team members\optimized_bio3_1500px.yml
+ID: "aacdce01-62a9-4ec0-9c58-bd951e17af7a"
+Parent: "72029c0e-28d6-41ba-a128-cd318f4eb469"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: /sitecore/media library/Project/Financial/Services/Pages/Team members/optimized_bio3_1500px
+Signature: KKdhRfmekcM8YSk53cQ6WWoMnT0e5qZyMixd6W1SfCE=
+Modified: 638975227012045465
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\Services\Pages\Team members\optimized_bio4_1500px.yml
+ID: "8134fe6e-c781-46a8-8ed3-531d8ffd806b"
+Parent: "72029c0e-28d6-41ba-a128-cd318f4eb469"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: /sitecore/media library/Project/Financial/Services/Pages/Team members/optimized_bio4_1500px
+Signature: 5dSyrstyfB17T9I1WkwpWOoxeOwgpWwhN1U0GJOiXIA=
+Modified: 638975227012120607
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\Services\Pages\Team members\optimized_bio5_1500px.yml
+ID: "9461f5f7-3d0c-4a78-bb0e-91a78d6273b4"
+Parent: "72029c0e-28d6-41ba-a128-cd318f4eb469"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: /sitecore/media library/Project/Financial/Services/Pages/Team members/optimized_bio5_1500px
+Signature: 8KgYsTyHj1/V6cy3HJBmrIAwXcxwDx6z5dw5wx8ks2o=
+Modified: 638975227012220733
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\Services\Pages\Team members\optimized_bio6_1500px.yml
+ID: "1bc03de2-e4ab-4eab-afb0-0e9784f0224e"
+Parent: "72029c0e-28d6-41ba-a128-cd318f4eb469"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: /sitecore/media library/Project/Financial/Services/Pages/Team members/optimized_bio6_1500px
+Signature: GQQfqSvuveNE+dmf3375D2r8Phk/i+vhPaEQleR/SvE=
+Modified: 638975227012310965
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\Services\Pages\Team members\optimized_bio7_1500px.yml
+ID: "34dab229-645c-445f-81fc-aee78d5132df"
+Parent: "72029c0e-28d6-41ba-a128-cd318f4eb469"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: /sitecore/media library/Project/Financial/Services/Pages/Team members/optimized_bio7_1500px
+Signature: wp2UMSz6NS5eVkJgbXey7c8tIX7gs0LOHchHSqyFDgo=
+Modified: 638975227012356019
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Home page\Carousels\Business\carousel-business-international-1920x720.yml
+ID: "eaf58e69-5ae7-4487-b996-50571bfd4d18"
+Parent: "dbeef093-1570-41b1-bdba-fb12a3803582"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: "/sitecore/media library/Project/Financial/ProsperaFinancial/Home page/Carousels/Business/carousel-business-international-1920x720"
+Signature: i2zw44N5Cun7yWfuc4YuEDij4UZC+lO9TkizCFJ0e7c=
+Modified: 638975338707081623
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Home page\Carousels\Business\finance-business-carousel-image.yml
+ID: "eb00a3fb-9456-44dc-9177-00c7b156faa0"
+Parent: "dbeef093-1570-41b1-bdba-fb12a3803582"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: "/sitecore/media library/Project/Financial/ProsperaFinancial/Home page/Carousels/Business/finance-business-carousel-image"
+Signature: 285BBxUjcU/WZlXORPlBzy5hExx4nEaKuDATqhrDr+g=
+Modified: 638975338707019582
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Home page\Carousels\Business\finance-business-carousel-image2.yml
+ID: "8e29bed6-0475-4265-9f38-66360c2559cd"
+Parent: "dbeef093-1570-41b1-bdba-fb12a3803582"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: "/sitecore/media library/Project/Financial/ProsperaFinancial/Home page/Carousels/Business/finance-business-carousel-image2"
+Signature: Z1BZm4fStbBOaQ2JgLK91EoSwJEVf/eopaqDE20as4o=
+Modified: 638975338707148512
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Home page\Carousels\Business\finance-business-carousel-image3.yml
+ID: "9098673d-d42d-484e-b164-78545599f55e"
+Parent: "dbeef093-1570-41b1-bdba-fb12a3803582"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: "/sitecore/media library/Project/Financial/ProsperaFinancial/Home page/Carousels/Business/finance-business-carousel-image3"
+Signature: 3xtPyyWmI0+K0Wnfy5Fv46T5UN2KEyCTAul8m/IOQYU=
+Modified: 638975338707101691
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Home page\Carousels\Business\finance-business-carousel-video.yml
+ID: "bfed9d2d-3731-400c-a4d3-60e21f6e94c0"
+Parent: "dbeef093-1570-41b1-bdba-fb12a3803582"
+Template: "962b53c4-f93b-4df9-9821-415c867b8903"
+Path: "/sitecore/media library/Project/Financial/ProsperaFinancial/Home page/Carousels/Business/finance-business-carousel-video"
+Signature: j0DnTpsG/OA2GStC8Q7P+TofptCEgsExbLEDFM4jhrM=
+Modified: 638975338708171098
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Home page\Carousels\Default\carousel-personal-banking-1920x720.yml
+ID: "66a740f3-9b61-4856-8c35-0a92918607cf"
+Parent: "eec66907-3559-4fa4-9c4e-a34911fa65e1"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: "/sitecore/media library/Project/Financial/ProsperaFinancial/Home page/Carousels/Default/carousel-personal-banking-1920x720"
+Signature: HnuQ40XcqIsIVtQtzDnHcU7QOkK2sSGiiRpTw7y82JU=
+Modified: 638975338707234842
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Personal\Borrowing\Line of credit\line-of-credit-promo.yml
+ID: "70908edf-2b69-463f-9c23-3b8faf246a0b"
+Parent: "0874bd74-b238-4110-be4b-eeb7da99eca3"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: "/sitecore/media library/Project/Financial/ProsperaFinancial/Personal/Borrowing/Line of credit/line-of-credit-promo"
+Signature: 2dVqe2o+UQLpoA1O2d64y3qUY0qYJ41cC3tgAxBfb5s=
+Modified: 638975338706989575
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\Services\Mockups\twitter.yml
+ID: "d7668912-4c04-4881-8c8b-3eedbc4277a6"
+Parent: "aac59603-dfd5-42ff-857d-8b8cc72edc54"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: /sitecore/media library/Project/Financial/Services/Mockups/twitter
+Signature: wSLfsMb+3R1ccexPa7SXDP0r1O+DD7ym91WHDTKkGAk=
+Modified: 638975227010576699
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\Services\Pages\Insights.yml
+ID: "ee2a8cd4-b9a9-46cb-b309-fc350ccc3692"
+Parent: "da9d8c8c-a783-41b7-9f60-08ee4d583df2"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/Financial/Services/Pages/Insights
+Signature: baalWV3tbpI5YVBfTDDFx8sD9lWPCXWTa4lfIYWlokI=
+Modified: 638974408206871979
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\Services\Pages\Team members.yml
+ID: "72029c0e-28d6-41ba-a128-cd318f4eb469"
+Parent: "da9d8c8c-a783-41b7-9f60-08ee4d583df2"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/Financial/Services/Pages/Team members
+Signature: baalWV3tbpI5YVBfTDDFx8sD9lWPCXWTa4lfIYWlokI=
+Modified: 638974408206889400
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\Services\PNG\features_icon.yml
+ID: "f9ac5643-a093-4c1e-9630-c3fb850e924c"
+Parent: "52ca8f4d-fce7-4ec8-8b40-0207eaff0b19"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: /sitecore/media library/Project/Financial/Services/PNG/features_icon
+Signature: bWjSv7vw/Nl2l884Vjfzn1RCAyhTt5zM1LFgml2p8jA=
+Modified: 638975227010576699
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\Services\Screenshots\services_home.yml
+ID: "c0ea0bcd-ad21-41a9-8f73-c7f8d0ec193c"
+Parent: "d233c940-73a8-44ab-9ce2-978b6256d36a"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: /sitecore/media library/Project/Financial/Services/Screenshots/services_home
+Signature: KuVWGfpQ5AD+lQuYKATGPqZMP3cFOu+2aYqpy1wEOK0=
+Modified: 638975227010601933
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\Services\Sitemaps\Services.yml
+ID: "23ac3f9e-6bad-4812-be01-34fd0c209aa6"
+Parent: "165a32ec-e3a9-47fd-813b-d2b3aaf9eb63"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/Financial/Services/Sitemaps/Services
+Signature: tIHp31O0Km6v98+t4+sx20n3xLX5/2dSYFBJMq/cOio=
+Modified: 638974408206999736
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Business\Employee management\employee-management-promo.yml
+ID: "9d636d57-cec7-42ec-9943-ee33dd83915d"
+Parent: "2693ba59-5759-4ae1-b2c2-b215988a15f7"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: "/sitecore/media library/Project/Financial/ProsperaFinancial/Business/Employee management/employee-management-promo"
+Signature: s8DnSu012wLllV2LTlGiwIU4B7hWxotYFJQWwW6oT/o=
+Modified: 638975338706959441
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Business\International banking\financial-security-promo.yml
+ID: "52ed4d9b-c67d-45f9-8b32-81ccb247c307"
+Parent: "41c86dc0-2702-41f9-9803-80d9f335e4be"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: "/sitecore/media library/Project/Financial/ProsperaFinancial/Business/International banking/financial-security-promo"
+Signature: t/okSaTDljvpzHymxAP9yVRGCID7ECL48CDdo83LKC4=
+Modified: 638975338706979524
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Personal\Borrowing\Line of credit.yml
+ID: "0874bd74-b238-4110-be4b-eeb7da99eca3"
+Parent: "160d7609-b15c-4d78-ab6e-cd6b9cdbbda3"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/Financial/ProsperaFinancial/Personal/Borrowing/Line of credit
+Signature: wLG/RXYLM41kIXQkkcnvi/e9rl5VET4yMMN+0FCvuTo=
+Modified: 638975338706884279
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Personal\Everyday banking\13-Mobile-02-Phones.yml
+ID: "c7510843-1608-4f7e-bfe0-31e0f126296a"
+Parent: "a448a32c-f2fa-4e0d-9677-5ce29c11fe32"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: "/sitecore/media library/Project/Financial/ProsperaFinancial/Personal/Everyday banking/13-Mobile-02-Phones"
+Signature: G8dpkte34QNe7poMBs1tGKB+GJORCivLw9zebesPCes=
+Modified: 638975338707009587
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Personal\Investing\investing-paper-promo.yml
+ID: "88c60c4b-f232-4697-8eb2-c39a6e6db9d0"
+Parent: "78ae27ae-07b1-4927-a4e4-37ca1383783c"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: "/sitecore/media library/Project/Financial/ProsperaFinancial/Personal/Investing/investing-paper-promo"
+Signature: B0kudRKbmm6p/402ZMwj01IutZnRFvlSW9nKTNrceFc=
+Modified: 638975338706969540
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Retirement planning\Building wealth\retirement-wealth-promo.yml
+ID: "e5463799-aa89-437f-91d7-77ed6cf1e9cb"
+Parent: "0af4a3c7-7469-497f-a906-ce6125fa2633"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: "/sitecore/media library/Project/Financial/ProsperaFinancial/Retirement planning/Building wealth/retirement-wealth-promo"
+Signature: mbZRdZOGIPnWQs35nX1Hbn7tUIqMlSNXnUxDxpwGyz0=
+Modified: 638975338706959441
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Retirement planning\Estate planning\estate-planning-promo.yml
+ID: "e1825932-3c06-4740-ad0e-cc73b6506c4f"
+Parent: "40462f34-2956-4a23-811d-b61e5a8546fb"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: "/sitecore/media library/Project/Financial/ProsperaFinancial/Retirement planning/Estate planning/estate-planning-promo"
+Signature: Loz0HwbA1HjKpp5QxqHgfdJEmgRRcfyBuaO4T5Aq7KY=
+Modified: 638975338706979524
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Retirement planning\Living in retirement\embrace-retirement-promo.yml
+ID: "908bc16a-42ce-428b-aeb0-61202b220084"
+Parent: "bb39a856-124d-433f-af4e-ca48900f677f"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: "/sitecore/media library/Project/Financial/ProsperaFinancial/Retirement planning/Living in retirement/embrace-retirement-promo"
+Signature: 2qN3ZW7YYCJzXp7GO27ajQ7V072ypjBbb3E0T35sdGY=
+Modified: 638975338707019582
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\SVG\Group 6\Path 88.yml
+ID: "a5957956-20a2-4fcc-b203-388d7c696fa7"
+Parent: "08b36b47-dc43-4f6b-8ce1-95a195829509"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Project/Financial/ProsperaFinancial/SVG/Group 6/Path 88
+Signature: e9iz6UTWkCSm5EvbIdAjwgxMyL7/bVMgjjyG4HXr7rY=
+Modified: 638975338706969540
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\Services\Components\Testimonials\testimonial1_500px.yml
+ID: "785e7a4a-4a4d-4e96-9dfc-bdc0ef8b8f57"
+Parent: "1a02e663-536a-4ef7-b706-bef28a9e30d3"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: /sitecore/media library/Project/Financial/Services/Components/Testimonials/testimonial1_500px
+Signature: z7KiZ683bvxHyx+lCswHTd+pp1soieTg4JjaeihFCak=
+Modified: 638975227010876621
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Home page\Carousels\Default\carousel-personal-investing-1920x720.yml
+ID: "bef556e2-9a4c-4587-80e7-2488c67d9403"
+Parent: "eec66907-3559-4fa4-9c4e-a34911fa65e1"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: "/sitecore/media library/Project/Financial/ProsperaFinancial/Home page/Carousels/Default/carousel-personal-investing-1920x720"
+Signature: G2dj9dw+a49hoS+ppvwcoixxMILnYoDxzGEG2Kj2wa4=
+Modified: 638975338706989575
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Home page\Carousels\Default\finance-default-carousel-image.yml
+ID: "49985546-7afe-45f5-902b-a49779effa07"
+Parent: "eec66907-3559-4fa4-9c4e-a34911fa65e1"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: "/sitecore/media library/Project/Financial/ProsperaFinancial/Home page/Carousels/Default/finance-default-carousel-image"
+Signature: mWaQ0/6FcrHmjEpVfo+Hr1h56X8qAUKjMkTwktpGNes=
+Modified: 638975338706969540
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Home page\Carousels\Default\finance-default-carousel-video.yml
+ID: "e661f006-5b4b-4d94-bf9c-7bc513180f1f"
+Parent: "eec66907-3559-4fa4-9c4e-a34911fa65e1"
+Template: "e76adbdf-87d1-4fcb-ba71-274f7dbf5670"
+Path: "/sitecore/media library/Project/Financial/ProsperaFinancial/Home page/Carousels/Default/finance-default-carousel-video"
+Signature: GlgMkB/LJ8VyOUGiwM2EAQa1pro+0ImGd1k83Fgn7UY=
+Modified: 638975338708379774
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Home page\Carousels\Retirement planning\carousel-retirement-wealth-1920x720.yml
+ID: "a702478e-0e96-40a6-ae66-a80ebdf56192"
+Parent: "78fc449b-0788-480c-823e-793f6bc3d9de"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: "/sitecore/media library/Project/Financial/ProsperaFinancial/Home page/Carousels/Retirement planning/carousel-retirement-wealth-1920x720"
+Signature: skcMWgcLYUpb7LnY5rEmIa4qtx+ZKv1WawTYBd+l10U=
+Modified: 638975338707009587
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Home page\Carousels\Retirement planning\finance-retired-carousel-image.yml
+ID: "2fefe095-a598-48d6-af50-6455ace38ddc"
+Parent: "78fc449b-0788-480c-823e-793f6bc3d9de"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: "/sitecore/media library/Project/Financial/ProsperaFinancial/Home page/Carousels/Retirement planning/finance-retired-carousel-image"
+Signature: Q5jRKSR+67qZ9mkl122bELSS5QgSbZhwcsdQ/wtXogw=
+Modified: 638975338707029583
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Home page\Carousels\Retirement planning\finance-retired-carousel-video.yml
+ID: "520b658a-512b-449f-9aa4-dc3a55b5380a"
+Parent: "78fc449b-0788-480c-823e-793f6bc3d9de"
+Template: "962b53c4-f93b-4df9-9821-415c867b8903"
+Path: "/sitecore/media library/Project/Financial/ProsperaFinancial/Home page/Carousels/Retirement planning/finance-retired-carousel-video"
+Signature: 2SWXeOu4InwWgThGwpIIhhr/zi63MiYLTjtr3a49vVY=
+Modified: 638975338708125950
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Home page\Carousels\Retirement planning\finance-retirement-carousel-image3.yml
+ID: "49033fee-ba64-45d6-b5c1-fa0dfe56a747"
+Parent: "78fc449b-0788-480c-823e-793f6bc3d9de"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: "/sitecore/media library/Project/Financial/ProsperaFinancial/Home page/Carousels/Retirement planning/finance-retirement-carousel-image3"
+Signature: ISdbabZ1bSx0sedWhRXSkGlQ4a/g43Owr7E9J0khR3U=
+Modified: 638975338707269852
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\media\Financial\ProsperaFinancial\Personal\Borrowing\Credit cards\credit-cards-promo.yml
+ID: "ca22a1c0-b2e0-4d9e-a67e-f1ce8cb37acd"
+Parent: "8a10c733-359a-446d-97dd-4194106f1cf6"
+Template: "309eb383-99b6-4722-9fab-58d8ae802d72"
+Path: "/sitecore/media library/Project/Financial/ProsperaFinancial/Personal/Borrowing/Credit cards/credit-cards-promo"
+Signature: +EpUjoU2yGLO9+Lj+sCDxJtleY0dHptLV/urp44koqg=
+Modified: 638975338707009587

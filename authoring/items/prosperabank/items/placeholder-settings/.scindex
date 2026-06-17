@@ -1,0 +1,127 @@
+﻿# Do not commit this file to source control or modify it. It is safe to delete; it will recreate itself.
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\placeholder-settings\Financial\eyebrow-left.yml
+ID: "1d79093e-62ca-442d-912c-2ab8aa2a62df"
+Parent: "886787bc-afe2-43a0-bc26-38178f98ad34"
+Template: "5c547d4e-7111-4995-95b0-6b561751bf2e"
+Path: "/sitecore/layout/Placeholder Settings/Project/Financial/eyebrow-left"
+Signature: I/uYz+yWbMloElsV3N2nmHVL2ykKs7/CyqdVK+yoZek=
+Modified: 638975233143954644
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\placeholder-settings\Financial.yml
+ID: "886787bc-afe2-43a0-bc26-38178f98ad34"
+Parent: "f5f0fbe3-61ad-4967-a5d8-8d760331d6a1"
+Template: "3d281bf8-5336-4686-9dd6-ab4ab5b3fd5d"
+Path: /sitecore/layout/Placeholder Settings/Project/Financial
+Signature: XdOrjGeQnFfEzPuz+Lnt10fawFfySaarQZIrYLIItK4=
+Modified: 638975233143884047
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\placeholder-settings\Financial\article-meta.yml
+ID: "e390a922-ce56-4892-a8e7-4be5592e6ad1"
+Parent: "886787bc-afe2-43a0-bc26-38178f98ad34"
+Template: "5c547d4e-7111-4995-95b0-6b561751bf2e"
+Path: "/sitecore/layout/Placeholder Settings/Project/Financial/article-meta"
+Signature: 0rMUeygO7RpWxt3ttBbdiKDm3hnt0SOmILQ4yZmzqzc=
+Modified: 638975233143894161
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\placeholder-settings\Financial\hero-banner.yml
+ID: "ba6f4107-a194-4223-bf32-4494069a93d8"
+Parent: "886787bc-afe2-43a0-bc26-38178f98ad34"
+Template: "5c547d4e-7111-4995-95b0-6b561751bf2e"
+Path: "/sitecore/layout/Placeholder Settings/Project/Financial/hero-banner"
+Signature: bXUMYxhog6zLpXauOXo9lixdZh2t/lH63FGn5/NYvVM=
+Modified: 638975233143989794
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\placeholder-settings\Financial\eyebrow-right.yml
+ID: "8235f1d8-1b0b-4760-bd20-fb374adf0d21"
+Parent: "886787bc-afe2-43a0-bc26-38178f98ad34"
+Template: "5c547d4e-7111-4995-95b0-6b561751bf2e"
+Path: "/sitecore/layout/Placeholder Settings/Project/Financial/eyebrow-right"
+Signature: VIEmhYU23OUpN+WFIEHb7qN5SVbexZ8Tf6jb8AFXldU=
+Modified: 638975233143954644
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\placeholder-settings\Financial\header-right.yml
+ID: "bf51be21-1df2-43fc-8319-10663c28355c"
+Parent: "886787bc-afe2-43a0-bc26-38178f98ad34"
+Template: "5c547d4e-7111-4995-95b0-6b561751bf2e"
+Path: "/sitecore/layout/Placeholder Settings/Project/Financial/header-right"
+Signature: v6AGf+6/qA5caTykn5D5LtGx521jdVvmgSthuzEAC7E=
+Modified: 638975233143989794
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\placeholder-settings\Financial\promo-cta.yml
+ID: "126cd051-0c03-42c2-8e8e-601448c85984"
+Parent: "886787bc-afe2-43a0-bc26-38178f98ad34"
+Template: "5c547d4e-7111-4995-95b0-6b561751bf2e"
+Path: "/sitecore/layout/Placeholder Settings/Project/Financial/promo-cta"
+Signature: gjuMpZw2UKVcoIDIXkpdyvG6tFLUC3bdzB6VOJS0D+g=
+Modified: 638975233144034866
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\placeholder-settings\Financial\page-content.yml
+ID: "c9d3a906-3697-4eee-a431-b8fc8eb5a7f8"
+Parent: "886787bc-afe2-43a0-bc26-38178f98ad34"
+Template: "5c547d4e-7111-4995-95b0-6b561751bf2e"
+Path: "/sitecore/layout/Placeholder Settings/Project/Financial/page-content"
+Signature: RFGQsIVlLJ8txaXmklakLwW5YXSq9lMW39DPBFmLSAY=
+Modified: 638975233144004835
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\placeholder-settings\Financial\project-additional-content.yml
+ID: "211a6c46-1d88-42e7-beb1-5694e526e206"
+Parent: "886787bc-afe2-43a0-bc26-38178f98ad34"
+Template: "5c547d4e-7111-4995-95b0-6b561751bf2e"
+Path: "/sitecore/layout/Placeholder Settings/Project/Financial/project-additional-content"
+Signature: ETatq2GsX5UgDhwQurOhoMtJPpLQuPJixcKbwLghXNA=
+Modified: 638975233144024867
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\placeholder-settings\Financial\two-col-placeholder-left.yml
+ID: "0f881398-2a8e-4651-94ff-3b6d374bf674"
+Parent: "886787bc-afe2-43a0-bc26-38178f98ad34"
+Template: "5c547d4e-7111-4995-95b0-6b561751bf2e"
+Path: "/sitecore/layout/Placeholder Settings/Project/Financial/two-col-placeholder-left"
+Signature: pMheGqH4zwspUrEi3T6Gyl6Tr/IT9g2o2uo2bf3KVPM=
+Modified: 638975233144044861
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\placeholder-settings\Financial\background-page-content.yml
+ID: "936bbb4a-6772-4db5-a0ea-fabee542eba9"
+Parent: "886787bc-afe2-43a0-bc26-38178f98ad34"
+Template: "5c547d4e-7111-4995-95b0-6b561751bf2e"
+Path: "/sitecore/layout/Placeholder Settings/Project/Financial/background-page-content"
+Signature: OoPoeqFRQnSxsWD9QMb+fNpeNXkKij9hJRERZEffv14=
+Modified: 638975233143944654
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\placeholder-settings\Financial\header-left.yml
+ID: "7f3a1598-c7af-4962-b3e9-4a2fa9ba6156"
+Parent: "886787bc-afe2-43a0-bc26-38178f98ad34"
+Template: "5c547d4e-7111-4995-95b0-6b561751bf2e"
+Path: "/sitecore/layout/Placeholder Settings/Project/Financial/header-left"
+Signature: COVYBkW9rvJcac0/lW29tmzjiHooFOL8QkBqkPt6JTc=
+Modified: 638975233143979707
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\placeholder-settings\Financial\page-navigation.yml
+ID: "9953b06f-4247-4888-b2ef-9bf0cdc0b7a9"
+Parent: "886787bc-afe2-43a0-bc26-38178f98ad34"
+Template: "5c547d4e-7111-4995-95b0-6b561751bf2e"
+Path: "/sitecore/layout/Placeholder Settings/Project/Financial/page-navigation"
+Signature: Wy/sOMR3JPDBrGfYUOKPaYEkoN/QQyST7FcT+iEm2h0=
+Modified: 638975233144014962
+---
+File: |
+  C:\Projects\Symposium\Sitecore.Demo.XMCloud.IndustryVerticals.SiteTemplates\authoring\items\prosperabank\items\placeholder-settings\Financial\two-col-placeholder-right.yml
+ID: "710850e7-d2ee-4740-9f33-3f233acde526"
+Parent: "886787bc-afe2-43a0-bc26-38178f98ad34"
+Template: "5c547d4e-7111-4995-95b0-6b561751bf2e"
+Path: "/sitecore/layout/Placeholder Settings/Project/Financial/two-col-placeholder-right"
+Signature: lGOIHoL2ByxyLUPr89jh3a93yGGjgEP87fEOJfJewnU=
+Modified: 638975233144054887

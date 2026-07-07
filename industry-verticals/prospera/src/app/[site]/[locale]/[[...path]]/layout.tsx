@@ -1,4 +1,5 @@
 import { setCachedPageParams } from '@sitecore-content-sdk/nextjs';
+import { SearchProvider } from 'components/search/SearchProvider';
 
 export default async function SiteLayout({
   children,
@@ -9,11 +10,12 @@ export default async function SiteLayout({
 }) {
   const { site, locale } = await params;
 
-  // Update the cached page info with the current site and locale values.
-  // This ensures the notFound page can access the correct site and locale information when rendered
-  // without opting out of SSG by using functions like `headers()`.
   setCachedPageParams({ locale, site });
 
-  return <>{children}</>;
+  return (
+    <SearchProvider locale={locale}>
+      {children}
+    </SearchProvider>
+  );
 }
 

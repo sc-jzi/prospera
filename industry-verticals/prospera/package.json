@@ -28,11 +28,13 @@
     "start": "cross-env-shell NODE_ENV=production npm-run-all --serial build next:start"
   },
   "dependencies": {
-    "@sitecore-content-sdk/analytics-core": "~2.1.0",
-    "@sitecore-content-sdk/events": "~2.1.0",
-    "@sitecore-content-sdk/nextjs": "~2.1.0",
-    "@sitecore-content-sdk/personalize": "~2.1.0",
+    "@sitecore-content-sdk/analytics-core": "2.1.0",
+    "@sitecore-content-sdk/events": "2.1.0",
+    "@sitecore-content-sdk/nextjs": "2.1.0",
+    "@sitecore-content-sdk/personalize": "2.1.0",
     "@sitecore-feaas/clientside": "^0.6.0",
+    "@sitecore-search/react": "^3.0.0",
+    "@sitecore-search/ui": "^3.0.0",
     "@sitecore/components": "~2.1.0",
     "bootstrap": "^5.3.8",
     "font-awesome": "^4.7.0",
@@ -47,7 +49,7 @@
     "swiper": "^11.1.4"
   },
   "devDependencies": {
-    "@sitecore-content-sdk/cli": "~2.1.0",
+    "@sitecore-content-sdk/cli": "2.1.0",
     "@tailwindcss/postcss": "^4",
     "@types/node": "^24.10.4",
     "@types/react": "^19.2.7",

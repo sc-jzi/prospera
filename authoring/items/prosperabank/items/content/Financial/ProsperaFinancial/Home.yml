@@ -15,11 +15,17 @@ SharedFields:
   Value: 
 - ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
   Hint: __Workflow
-  Value: "{E9B6C600-C6E8-4867-BCB7-8B0DC5F19840}"
+  Value: "{A5BC37E7-ED96-4C1E-8590-A26E64DB55EA}"
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
     <image mediaid="{CBCF5A12-3FCF-4C0F-B219-FA425CAAED97}" />
+- ID: "ca9b9f52-4fb0-4f87-a79f-24dea62cda65"
+  Hint: __Default workflow
+  Value: "{A5BC37E7-ED96-4C1E-8590-A26E64DB55EA}"
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "e313a490-8109-40eb-b39e-059e6e8ed0a0"
 - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
   Hint: __Renderings
   Value: |
@@ -317,7 +323,7 @@ Languages:
       Value: 20251028T004803Z
     - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
       Hint: __Workflow state
-      Value: "{171CCFD4-8543-428E-9A9B-8E6557E63B6D}"
+      Value: "{FCA998C5-0CC3-4F91-94D8-0A4E6CAECE88}"
     - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
       Hint: NavigationTitle
       Value: Financial

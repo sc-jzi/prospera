@@ -22,20 +22,9 @@ const nextConfig: NextConfig = {
   // see https://nextjs.org/docs/app/api-reference/components/image#remotepatterns
   images: {
     remotePatterns: [
-      {
-        protocol: 'https',
-        hostname: 'edge*.**',
-        port: '',
-      },
-      {
-        protocol: 'https',
-        hostname: 'xmc-*.**',
-        port: '',
-      },
 	  {
         protocol: 'https',
         hostname: '**',
-        port: '',
       },
     ],
   },

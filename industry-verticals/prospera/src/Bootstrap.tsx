@@ -3,6 +3,10 @@ import { useEffect, JSX } from 'react';
 import { initContentSdk } from '@sitecore-content-sdk/nextjs';
 import { eventsPlugin } from '@sitecore-content-sdk/events';
 import { analyticsBrowserAdapter, analyticsPlugin } from '@sitecore-content-sdk/analytics-core';
+import {
+  personalizeBrowserAdapter,
+  personalizeBrowserPlugin,
+} from '@sitecore-content-sdk/personalize';
 import config from 'sitecore.config';
 
 const Bootstrap = ({
@@ -24,6 +28,8 @@ const Bootstrap = ({
     }
 
     if (config.api.edge?.clientContextId) {
+      const cookieDomain = window.location.hostname.replace(/^www\./, '');
+
       initContentSdk({
         config: {
           contextId: config.api.edge.clientContextId,
@@ -34,11 +40,17 @@ const Bootstrap = ({
           analyticsPlugin({
             options: {
               enableCookie: true,
-              cookieDomain: window.location.hostname.replace(/^www\./, ''),
+              cookieDomain,
             },
             adapter: analyticsBrowserAdapter(),
           }),
           eventsPlugin(),
+          personalizeBrowserPlugin({
+            options: {
+              enablePersonalizeCookie: true,
+            },
+            adapter: personalizeBrowserAdapter(),
+          }),
         ],
       });
     } else {

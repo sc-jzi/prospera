@@ -328,10 +328,13 @@ Edit the repo-root **`xmcloud.build.json`**.
 
 1. Under `renderingHosts`, find an entry whose `path` is `./industry-verticals/<source-folder>` (e.g. `"prospera"` for Prospera). If none matches, ask which existing host to clone.
 2. **Duplicate** that object.
-3. Rename the new key to the **customer name in lowercase** (same identifier as `<customer-folder>`).
+3. Rename the new key to **`<customer-folder>`** (customer name in **lowercase** kebab-case — same value everywhere this host is named).
 4. Set `"path"` to `"./industry-verticals/<customer-folder>"`.
 5. Leave other fields from the source host unchanged unless the user asks otherwise.
 6. Do **not** modify or remove the original source host entry.
+7. Record this key in progress as `artifacts.renderingHostKey` (= `<customer-folder>`).
+
+**Name consistency:** The `renderingHosts` key, the editing host `--name` (Step 1d), and `<customer-folder>` must be the **same lowercase** string.
 
 If a `renderingHosts` key for that customer already exists, ask before overwriting.
 
@@ -415,10 +418,10 @@ Do not proceed without `cm-environment-id`.
 2. After success:
 
 ```bash
-dotnet sitecore cloud editinghost create --cm-environment-id <cm-environment-id> --name <customer-name>
+dotnet sitecore cloud editinghost create --cm-environment-id <cm-environment-id> --name <customer-folder>
 ```
 
-Use the customer name (same display/system name used for the demo site) for `--name`.
+Use **`<customer-folder>`** (lowercase) for `--name` — it must match the `renderingHosts` key added to `xmcloud.build.json` in Step 1c. Do **not** use the display customer name or Site system name here.
 
 3. In the response:
    - Verify **Type** is `eh`
@@ -447,7 +450,7 @@ Confirm each upserted `NEXT_PUBLIC_SEARCH_*` name appears with the expected valu
 
 Tell the user:
 
-> In the Deploy Portal, open your project’s **Editing Host** tab, click the new editing host (`<customer-name>`), then **Options** → **Edit Environment Details**, and configure the GitHub connections for this host.
+> In the Deploy Portal, open your project’s **Editing Host** tab, click the new editing host (`<customer-folder>`), then **Options** → **Edit Environment Details**, and configure the GitHub connections for this host.
 
 **Do not wait** for a response. Continue immediately to **Step 1 verification**.
 
